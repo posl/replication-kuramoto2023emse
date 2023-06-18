@@ -48,3 +48,6 @@ To run the get_attribute.py script and work with the GithubIssues dataset, the f
 Please ensure that these libraries are installed in your Python environment before running the script.
 
 For more detailed information on the project and its findings, please refer to the paper.
+
+## Reference
+We make use of the list of bots (i.e., groundtruthbots.csv) available at https://github.com/mehdigolzadeh/IdentifyBots_ReplicationPackage.
