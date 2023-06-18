@@ -43,11 +43,13 @@ Our replication package make use of the list of bots (i.e., groundtruthbots.csv)
 Please download the file and place it directly under clone with the name groundtruthbots.csv.
 
 To run the get_attribute.py script and work with the GithubIssues dataset, the following libraries are required:
+
 - git-lfs (Note: This library is required before downloading this repository.)
 - fasttext
 - markdown
 - py_gfm
 - nltk
+
 Please ensure that these libraries are installed in your Python environment before running the script.
 
 For more detailed information on the project and its findings, please refer to the paper.
