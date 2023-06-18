@@ -1,0 +1,380 @@
+class,link,visual_type0,visual_type1,visual_type2,visual_type3,visual_type4,visual_type5,visual_purpose0,visual_purpose1,visual_purpose2,visual_purpose3,visual_purpose4,visual_purpose5,bug_type,ClosedTime,Participants,DescriptionLength,Comments,FirstCommentTime,LastCommentTime
+img,https://github.com/ballerina-platform/ballerina-lang/issues/30509,Output,,,,,,example,,,,,,Program anomaly issue,12.1294097,1,13,1,0.2063888889,0.2063888889
+img,https://github.com/grafana/grafana/issues/25228,Logs,,,,,,example,,,,,,GUI-related issue,3.15260417,1,136,10,0.1418402778,3.152604167
+img,https://github.com/facebook/react-native/issues/26368,Output,,,,,,example,,,,,,GUI-related issue,100.445706,2,123,4,2.302037037,3.121041667
+img,https://github.com/mozilla-mobile/fenix/issues/1970,UserInterface,,,,,,example,,,,,,GUI-related issue,475.021782,4,37,4,0.04271990741,1.483310185
+img,https://github.com/facebook/react-native/issues/25489,Logs,,,,,,additional information,,,,,,Configuration issue,0.44725694,2,0,2,0.01668981481,0.4472569444
+img,https://github.com/wordpress/gutenberg/issues/17793,UserInterface,,,,,,additional information,,,,,,GUI-related issue,3.59512731,2,34,3,0.5854050926,3.594641204
+img,https://github.com/elastic/kibana/issues/57596,Logs,,,,,,example,,,,,,Network issue,237.96706,2,44,2,0.3161689815,0.9477777778
+img,https://github.com/elastic/kibana/issues/44272,Output,,,,,,example,,,,,,Program anomaly issue,586.255694,4,130,7,0.0230787037,586.2556944
+img,https://github.com/ballerina-platform/ballerina-lang/issues/34418,Diagram,,,,,,additional information,,,,,,Program anomaly issue,15.7943519,3,40,5,0.01319444444,15.79435185
+img,https://github.com/cleverraven/cataclysm-dda/issues/44845,Output,,,,,,example,,,,,,GUI-related issue,1.0887037,0,84,0,,
+img,https://github.com/facebook/react-native/issues/26428,Logs,,,,,,additional information,,,,,,Program anomaly issue,4.63059028,3,109,9,0.996099537,171.7857523
+img,https://github.com/elastic/kibana/issues/108894,Output,,,,,,example,,,,,,GUI-related issue,17.0847222,5,42,14,1.16E-05,15.99454861
+img,https://github.com/facebook/react-native/issues/26595,Configuration,Logs,Logs,Logs,,,additional information,example,additional information,example,,,Program anomaly issue,0.31403935,1,148,1,0.3127314815,0.3127314815
+img,https://github.com/microsoft/powertoys/issues/4478,Others,Output,,,,,example,example,,,,,GUI-related issue,130.503438,3,70,4,0.8035532407,117.590625
+img,https://github.com/microsoft/vscode/issues/119667,Diagram,,,,,,example,,,,,,GUI-related issue,7.19269676,1,21,4,0.2614583333,7.191006944
+img,https://github.com/facebook/react-native/issues/24553,Logs,Code,,,,,additional information,additional information,,,,,Program anomaly issue,71.9183333,11,145,19,0.8631018519,156.6421181
+img,https://github.com/elastic/kibana/issues/23460,UserInterface,UserInterface,,,,,additional information,example,,,,,GUI-related issue,1.84673611,0,71,0,,
+img,https://github.com/rancher/rancher/issues/17310,UserInterface,,,,,,example,,,,,,GUI-related issue,25.0890741,0,50,1,25.08907407,25.08907407
+img,https://github.com/elastic/kibana/issues/116975,UserInterface,Performance,,,,,example,example,,,,,GUI-related issue,97.9884375,1,12,4,1.075625,97.9884375
+img,https://github.com/tensorflow/tensorflow/issues/38253,Logs,,,,,,additional information,,,,,,Configuration issue,14.4120602,2,72,3,0.2904513889,14.41206019
+img,https://github.com/microsoft/vscode/issues/116808,Code,,,,,,additional information,,,,,,Program anomaly issue,0.15324074,1,43,0,0.8240625,0.8240625
+img,https://github.com/elastic/kibana/issues/36295,Diagram,,,,,,additional information,,,,,,Configuration issue,51.0292477,2,46,7,2.31E-05,50.98880787
+img,https://github.com/elastic/kibana/issues/81208,UserInterface,,,,,,additional information,,,,,,Program anomaly issue,0.91532407,3,49,4,2.31E-05,0.1656481481
+img,https://github.com/elastic/kibana/issues/30625,Diagram,,,,,,example,,,,,,GUI-related issue,3.06152778,2,60,2,1.16E-05,1.560752315
+img,https://github.com/elastic/kibana/issues/12862,Diagram,,,,,,example,,,,,,Program anomaly issue,27.1381944,0,19,0,,
+img,https://github.com/mozilla-mobile/fenix/issues/8462,UserInterface,,,,,,example,,,,,,GUI-related issue,255.126563,2,15,2,193.9186458,255.1265625
+img,https://github.com/vector-im/element-web/issues/12698,UserInterface,,,,,,example,,,,,,Database-related issue,1.29899306,1,19,4,0.3727314815,1.282743056
+img,https://github.com/zephyrproject-rtos/zephyr/issues/42508,Logs,,,,,,example,,,,,,Network issue,16.373125,2,22,2,2.360462963,16.373125
+img,https://github.com/grafana/grafana/issues/11091,UserInterface,,,,,,example,,,,,,Program anomaly issue,1.87454861,0,27,0,,
+img,https://github.com/microsoft/vscode/issues/109507,UserInterface,,,,,,example,,,,,,Test code-related issue,1.17416667,0,22,0,,
+img,https://github.com/rancher/rancher/issues/13524,Diagram,UserInterface,Diagram,,,,additional information,example,additional information,,,,Program anomaly issue,23.4795833,4,73,9,0.4912615741,40.82405093
+img,https://github.com/elastic/kibana/issues/43892,Logs,,,,,,example,,,,,,GUI-related issue,11.0720833,1,36,1,2.31E-05,2.31E-05
+img,https://github.com/godotengine/godot/issues/28870,UserInterface,,,,,,example,,,,,,GUI-related issue,1.25585648,0,7,0,,
+img,https://github.com/elastic/kibana/issues/40015,UserInterface,Configuration,,,,,example,additional information,,,,,GUI-related issue,8.0349537,1,45,1,2.31E-05,2.31E-05
+img,https://github.com/godotengine/godot/issues/33715,Code,Code,,,,,additional information,additional information,,,,,Program anomaly issue,63.5424421,2,31,3,0.2073611111,1.888935185
+img,https://github.com/cleverraven/cataclysm-dda/issues/30061,Logs,,,,,,example,,,,,,Program anomaly issue,2.81711806,1,84,1,1.96287037,1.96287037
+img,https://github.com/mozilla-mobile/fenix/issues/10236,Diagram,UserInterface,,,,,example,example,,,,,GUI-related issue,105.254155,2,15,2,0.003136574074,0.04203703704
+img,https://github.com/gatsbyjs/gatsby/issues/29213,Output,Logs,,,,,additional information,additional information,,,,,Program anomaly issue,0.6928588,2,516,3,0.003425925926,0.6928587963
+img,https://github.com/tensorflow/tensorflow/issues/39373,Output,,,,,,additional information,,,,,,GUI-related issue,5.53240741,3,82,6,0.07351851852,5.421851852
+img,https://github.com/godotengine/godot/issues/18366,Configuration,Performance,Performance,Performance,Performance,,additional information,example,example,example,example,,Performance issue,8.71092593,3,116,3,0.7927199074,8.455162037
+img,https://github.com/cleverraven/cataclysm-dda/issues/40188,Output,Output,Output,,,,example,example,example,,,,Program anomaly issue,162.358009,3,55,3,0.7416203704,153.9320139
+img,https://github.com/rancher/rancher/issues/9478,Output,,,,,,example,,,,,,Database-related issue,14.7143519,1,41,2,14.65034722,14.71435185
+img,https://github.com/godotengine/godot/issues/43388,UserInterface,,,,,,example,,,,,,GUI-related issue,99.4437963,2,6,2,0.1096064815,99.4437963
+img,https://github.com/godotengine/godot/issues/29234,Output,,,,,,example,,,,,,GUI-related issue,77.8065625,1,32,1,45.63381944,45.63381944
+img,https://github.com/elastic/kibana/issues/68393,UserInterface,,,,,,example,,,,,,Program anomaly issue,3.94278935,1,25,1,1.16E-05,1.16E-05
+img,https://github.com/wordpress/gutenberg/issues/6393,UserInterface,,,,,,additional information,,,,,,Program anomaly issue,29.7791898,0,9,0,,
+img,https://github.com/zephyrproject-rtos/zephyr/issues/34305,Logs,Logs,Configuration,Configuration,,,example,example,example,example,,,Program anomaly issue,80.8079514,1,177,2,0.9071643519,1.029988426
+img,https://github.com/mozilla-mobile/fenix/issues/8536,Output,,,,,,example,,,,,,Program anomaly issue,0.02628472,1,46,1,0.02628472222,0.02628472222
+img,https://github.com/adguardteam/adguardfilters/issues/47694,Logs,Output,,,,,example,example,,,,,Network issue,0.53905093,1,89,1,0.5391898148,0.5391898148
+img,https://github.com/microsoft/vscode/issues/135940,Output,Output,,,,,example,example,,,,,Program anomaly issue,51.3509838,1,41,1,0.1802893519,0.1802893519
+img,https://github.com/godotengine/godot/issues/36900,Logs,,,,,,example,,,,,,Program anomaly issue,691.329398,2,34,4,0.004814814815,691.3293981
+img,https://github.com/elastic/kibana/issues/99585,Others,,,,,,additional information,,,,,,Program anomaly issue,11.9514699,0,40,0,,
+img,https://github.com/cleverraven/cataclysm-dda/issues/44693,Output,Output,,,,,example,example,,,,,GUI-related issue,7.53290509,1,93,2,6.296111111,6.374363426
+img,https://github.com/elastic/kibana/issues/82173,Logs,,,,,,example,,,,,,Program anomaly issue,3.03737269,1,31,1,2.31E-05,2.31E-05
+img,https://github.com/qgis/qgis/issues/32806,Output,,,,,,example,,,,,,GUI-related issue,257.109491,2,20,2,160.8878588,257.1094907
+img,https://github.com/cleverraven/cataclysm-dda/issues/51668,Configuration,Output,,,,,example,example,,,,,Program anomaly issue,0.62553241,0,130,1,0.0003703703704,0.0003703703704
+img,https://github.com/cleverraven/cataclysm-dda/issues/43973,Configuration,Output,Others,,,,example,example,example,,,,Program anomaly issue,1.24578704,0,57,0,,
+img,https://github.com/cleverraven/cataclysm-dda/issues/45270,Output,,,,,,example,,,,,,Program anomaly issue,3.08966435,2,98,2,0.07699074074,0.07741898148
+img,https://github.com/rancher/rancher/issues/32856,Performance,Performance,,,,,example,example,,,,,Performance issue,17.0893171,2,118,3,2.973854167,17.08930556
+img,https://github.com/godotengine/godot/issues/17953,Output,Output,,,,,example,example,,,,,Program anomaly issue,113.868044,3,139,3,2.266701389,113.868044
+img,https://github.com/microsoft/typescript/issues/46814,Code,,,,,,example,,,,,,Program anomaly issue,88.122037,2,61,3,0.8761805556,4.346585648
+img,https://github.com/microsoft/vscode/issues/119865,UserInterface,,,,,,example,,,,,,GUI-related issue,7.52174769,2,44,3,0.2352430556,7.521724537
+img,https://github.com/qgis/qgis/issues/34628,Output,,,,,,example,,,,,,GUI-related issue,773.483704,3,128,3,731.1141088,731.1593171
+img,https://github.com/facebook/react-native/issues/17267,Output,Output,,,,,example,example,,,,,GUI-related issue,126.814931,27,132,55,0.001168981481,175.0175347
+img,https://github.com/wordpress/gutenberg/issues/9773,Diagram,,,,,,example,,,,,,GUI-related issue,223.747153,1,85,1,223.7471528,223.7471528
+img,https://github.com/elastic/kibana/issues/74812,Logs,,,,,,additional information,,,,,,Program anomaly issue,6.63268519,1,59,1,0.0001041666667,0.0001041666667
+img,https://github.com/godotengine/godot/issues/10184,Others,,,,,,example,,,,,,Program anomaly issue,163.8261,6,64,15,0.001898148148,163.8260995
+img,https://github.com/godotengine/godot/issues/38111,Configuration,,,,,,example,,,,,,Performance issue,2.37258102,3,65,3,0.1623148148,1.034421296
+img,https://github.com/vector-im/element-web/issues/18595,Logs,,,,,,example,,,,,,Program anomaly issue,0.83736111,1,35,1,0.8373611111,0.8373611111
+img,https://github.com/vector-im/element-web/issues/9006,Logs,,,,,,additional information,,,,,,Program anomaly issue,5.82509259,1,5,2,0.625162037,5.825092593
+img,https://github.com/microsoft/vscode/issues/119855,UserInterface,UserInterface,,,,,additional information,additional information,,,,,GUI-related issue,0.00905093,0,2,1,0.003032407407,0.003032407407
+img,https://github.com/rancher/rancher/issues/14761,Others,,,,,,example,,,,,,Program anomaly issue,6.86408565,0,24,1,6.864085648,6.864085648
+img,https://github.com/woocommerce/woocommerce/issues/17957,Logs,,,,,,example,,,,,,Program anomaly issue,0.09951389,2,93,8,48.04186343,51.03576389
+img,https://github.com/wordpress/gutenberg/issues/9422,UserInterface,,,,,,example,,,,,,GUI-related issue,12.1310532,0,12,0,,
+img,https://github.com/woocommerce/woocommerce/issues/27360,Diagram,Diagram,,,,,example,example,,,,,Program anomaly issue,11.0613426,1,34,2,2.636493056,2.666550926
+img,https://github.com/microsoft/vscode/issues/106302,UserInterface,,,,,,additional information,,,,,,GUI-related issue,0.07416667,0,19,0,,
+img,https://github.com/qgis/qgis/issues/45567,Configuration,,,,,,example,,,,,,Program anomaly issue,14.2528819,2,73,9,0.009895833333,14.23273148
+img,https://github.com/godotengine/godot/issues/21853,Output,,,,,,example,,,,,,Program anomaly issue,103.522292,5,33,10,1.585717593,104.3690046
+img,https://github.com/wordpress/gutenberg/issues/6105,Output,Output,,,,,example,example,,,,,GUI-related issue,202.141042,2,63,2,191.1396065,202.1410417
+img,https://github.com/mozilla-mobile/fenix/issues/5038,Output,Output,,,,,example,example,,,,,Program anomaly issue,306.914537,4,31,15,269.6401968,306.9143056
+img,https://github.com/grafana/grafana/issues/31065,Diagram,,,,,,example,,,,,,Program anomaly issue,49.4150347,2,121,5,0.5214583333,33.77054398
+img,https://github.com/cleverraven/cataclysm-dda/issues/51807,Output,Output,Output,Output,,,example,example,example,example,,,Program anomaly issue,48.4124306,2,165,3,44.88965278,46.21440972
+img,https://github.com/rancher/rancher/issues/23616,Output,Output,,,,,example,example,,,,,Program anomaly issue,2.94792824,1,39,2,2.687256944,2.947928241
+img,https://github.com/vector-im/element-web/issues/16080,Output,Output,,,,,example,example,,,,,GUI-related issue,0.01818287,1,89,1,0.01818287037,0.01818287037
+img,https://github.com/elastic/kibana/issues/116457,Output,,,,,,additional information,,,,,,GUI-related issue,3.00290509,2,7,3,2.31E-05,0.0250462963
+img,https://github.com/cleverraven/cataclysm-dda/issues/50860,Diagram,,,,,,example,,,,,,Program anomaly issue,18.0403588,5,98,11,0.02210648148,1.130011574
+img,https://github.com/grafana/grafana/issues/43988,Output,,,,,,example,,,,,,Program anomaly issue,19.0854051,2,95,7,0.001863425926,19.02456019
+img,https://github.com/elastic/kibana/issues/85374,Output,Output,Output,,,,example,example,example,,,,GUI-related issue,36.5981019,4,83,10,0.0004513888889,42.97945602
+img,https://github.com/ballerina-platform/ballerina-lang/issues/28167,Output,,,,,,additional information,,,,,,Program anomaly issue,36.0693056,0,18,0,,
+img,https://github.com/eclipse/che/issues/21017,Logs,,,,,,example,,,,,,Network issue,19.7759954,1,80,1,19.77599537,19.77599537
+img,https://github.com/hashicorp/terraform/issues/30381,Logs,,,,,,example,,,,,,Program anomaly issue,0.05262731,2,29,2,0.05262731481,0.07828703704
+img,https://github.com/rancher/rancher/issues/17557,Output,,,,,,example,,,,,,Program anomaly issue,15.8718866,2,31,3,1.843252315,15.87188657
+img,https://github.com/grafana/grafana/issues/26802,Configuration,,,,,,example,,,,,,Program anomaly issue,376.031979,3,64,3,3.737060185,376.0319792
+img,https://github.com/vector-im/element-web/issues/18562,UserInterface,,,,,,example,,,,,,GUI-related issue,2.39064815,0,24,0,,
+img,https://github.com/ballerina-platform/ballerina-lang/issues/31385,Diagram,Diagram,,,,,example,example,,,,,Program anomaly issue,39.9442477,0,38,0,,
+img,https://github.com/ballerina-platform/ballerina-lang/issues/8901,Logs,,,,,,example,,,,,,Program anomaly issue,4.68790509,0,59,0,,
+img,https://github.com/wordpress/gutenberg/issues/15443,UserInterface,,,,,,example,,,,,,GUI-related issue,341.085613,4,60,4,0.6205555556,341.0856134
+img,https://github.com/eclipse/che/issues/11071,Logs,,,,,,example,,,,,,Program anomaly issue,1.8065625,0,72,0,,
+img,https://github.com/microsoft/vscode/issues/101637,Logs,Logs,,,,,example,example,,,,,Program anomaly issue,4.02571759,1,37,3,2.119027778,3.740451389
+img,https://github.com/vector-im/element-web/issues/20314,Output,,,,,,example,,,,,,GUI-related issue,68.6811111,0,45,1,65.72460648,65.72460648
+img,https://github.com/microsoft/vscode/issues/94553,Output,,,,,,example,,,,,,Program anomaly issue,0.00224537,0,8,0,,
+img,https://github.com/vector-im/element-web/issues/16288,Output,,,,,,example,,,,,,GUI-related issue,0.00267361,0,32,1,0.002673611111,0.002673611111
+img,https://github.com/elastic/kibana/issues/15501,Output,,,,,,example,,,,,,Program anomaly issue,13.1631713,1,37,1,0.2723958333,0.2723958333
+img,https://github.com/elastic/kibana/issues/13677,Output,,,,,,example,,,,,,GUI-related issue,531.872488,3,46,4,349.0677546,531.8724884
+img,https://github.com/cleverraven/cataclysm-dda/issues/22104,Output,,,,,,example,,,,,,Program anomaly issue,24.4774884,1,64,1,1.268506944,1.268506944
+img,https://github.com/wordpress/gutenberg/issues/5369,Logs,,,,,,example,,,,,,Program anomaly issue,4.81195602,0,42,0,,
+img,https://github.com/rancher/rancher/issues/19108,Output,,,,,,example,,,,,,Program anomaly issue,217.87,0,73,0,,
+img,https://github.com/microsoft/vscode/issues/140118,,,,,,,,,,,,,,61.271331,1,56,1,0.001134259259,0.001134259259
+img,https://github.com/elastic/kibana/issues/38557,Output,,,,,,example,,,,,,GUI-related issue,517.940208,3,34,5,0.001157407407,517.9402083
+img,https://github.com/microsoft/vscode/issues/106169,UserInterface,,,,,,example,,,,,,GUI-related issue,1.83702546,0,24,0,,
+img,https://github.com/godotengine/godot/issues/27951,Output,Output,,,,,example,example,,,,,Program anomaly issue,688.831551,4,48,7,494.3694444,702.2162847
+img,https://github.com/elastic/elasticsearch/issues/63681,Logs,Output,,,,,example,example,,,,,Program anomaly issue,62.7764468,2,82,5,3.47E-05,62.77644676
+img,https://github.com/wordpress/gutenberg/issues/17975,Output,,,,,,example,,,,,,GUI-related issue,47.018206,1,59,2,37.08961806,37.09369213
+img,https://github.com/vector-im/element-web/issues/15063,Output,Output,,,,,example,example,,,,,Program anomaly issue,0.02081019,1,61,2,0.02081018519,0.0493287037
+img,https://github.com/facebook/react-native/issues/26992,Logs,,,,,,example,,,,,,Program anomaly issue,3.79291667,1,114,1,1.59744213,1.59744213
+img,https://github.com/wordpress/gutenberg/issues/11327,Output,,,,,,example,,,,,,Program anomaly issue,1.05222222,1,97,1,0.03644675926,0.03644675926
+img,https://github.com/wordpress/gutenberg/issues/7150,UserInterface,,,,,,additional information,,,,,,GUI-related issue,0.67640046,0,22,0,,
+img,https://github.com/microsoft/vscode/issues/112326,Output,,,,,,example,,,,,,GUI-related issue,25.0386806,1,28,1,25.03868056,25.03868056
+img,https://github.com/mozilla-mobile/fenix/issues/3564,Others,,,,,,additional information,,,,,,Program anomaly issue,429.493565,1,28,4,1.025752315,5.625740741
+img,https://github.com/elastic/kibana/issues/87829,Diagram,Diagram,,,,,example,example,,,,,Program anomaly issue,0.0697338,2,80,3,0.0003356481481,0.0697337963
+img,https://github.com/godotengine/godot/issues/12139,Output,Output,,,,,example,example,,,,,Program anomaly issue,970.411991,3,24,5,336.5154051,1004.477801
+img,https://github.com/facebook/react-native/issues/27239,Output,,,,,,example,,,,,,Program anomaly issue,66.2689005,2,24,1,66.26890046,66.26890046
+img,https://github.com/elastic/kibana/issues/115352,,,,,,,,,,,,,,1.7658912,2,33,2,3.47E-05,14.32229167
+img,https://github.com/qgis/qgis/issues/37808,Output,,,,,,example,,,,,,Program anomaly issue,30.9070602,1,53,18,0.02908564815,30.90706019
+img,https://github.com/elastic/kibana/issues/102216,UserInterface,,,,,,example,,,,,,GUI-related issue,1.03502315,1,13,1,1.035023148,1.035023148
+img,https://github.com/facebook/react-native/issues/20087,Logs,,,,,,example,,,,,,Program anomaly issue,23.744213,4,13,5,5.164803241,69.40188657
+img,https://github.com/mozilla-mobile/fenix/issues/9604,UserInterface,,,,,,example,,,,,,GUI-related issue,4.3899537,1,27,1,4.389953704,4.389953704
+img,https://github.com/elastic/kibana/issues/116739,Diagram,,,,,,example,,,,,,GUI-related issue,143.461991,3,84,7,3.47E-05,143.8753356
+img,https://github.com/rancher/rancher/issues/32838,Others,,,,,,example,,,,,,Program anomaly issue,84.1602894,2,84,7,12.91208333,84.16028935
+img,https://github.com/eclipse/che/issues/16814,Logs,,,,,,additional information,,,,,,Program anomaly issue,264.964375,2,57,1,3.955196759,3.955196759
+img,https://github.com/vector-im/element-web/issues/11241,UserInterface,,,,,,example,,,,,,GUI-related issue,0.05957176,1,65,1,0.05957175926,0.05957175926
+img,https://github.com/vector-im/element-web/issues/18098,UserInterface,,,,,,example,,,,,,GUI-related issue,0.00846065,1,24,1,0.008460648148,0.008460648148
+img,https://github.com/wordpress/gutenberg/issues/5757,UserInterface,,,,,,example,,,,,,GUI-related issue,26.2144907,0,61,0,,
+img,https://github.com/microsoft/vscode/issues/125334,Output,,,,,,additional information,,,,,,Program anomaly issue,0.14584491,1,0,0,0.01936342593,0.01936342593
+img,https://github.com/eclipse/che/issues/10063,Output,,,,,,example,,,,,,Program anomaly issue,55.9403472,0,13,1,55.94034722,55.94034722
+img,https://github.com/vector-im/element-web/issues/12750,Output,,,,,,example,,,,,,GUI-related issue,486.387905,1,30,1,486.3879051,486.3879051
+img,https://github.com/cleverraven/cataclysm-dda/issues/33275,Output,,,,,,example,,,,,,Program anomaly issue,40.5691319,2,61,5,0.1212152778,40.09538194
+img,https://github.com/mozilla-mobile/fenix/issues/12197,Diagram,,,,,,example,,,,,,Program anomaly issue,111.012975,0,62,1,111.0129745,111.0129745
+img,https://github.com/mozilla-mobile/fenix/issues/11774,UserInterface,UserInterface,,,,,example,example,,,,,GUI-related issue,121.58059,3,38,6,10.04445602,121.5805903
+img,https://github.com/eclipse/che/issues/10138,Diagram,,,,,,example,,,,,,Program anomaly issue,0.03862269,1,68,1,0.03862268519,0.03862268519
+img,https://github.com/facebook/react-native/issues/27633,Logs,,,,,,additional information,,,,,,Program anomaly issue,38.4851389,1,12,0,0.003993055556,0.003993055556
+img,https://github.com/grafana/grafana/issues/36586,Output,Output,,,,,example,example,,,,,Program anomaly issue,12.520625,1,54,1,5.404236111,5.404236111
+img,https://github.com/rancher/rancher/issues/17682,Logs,,,,,,example,,,,,,Program anomaly issue,64.1700463,3,29,3,0.9848842593,64.1700463
+img,https://github.com/wordpress/gutenberg/issues/25978,Output,Output,Output,Logs,,,example,example,example,example,,,GUI-related issue,48.180787,1,103,1,25.82355324,25.82355324
+img,https://github.com/wordpress/gutenberg/issues/8717,UserInterface,UserInterface,,,,,example,example,,,,,GUI-related issue,1.79412037,0,22,0,,
+img,https://github.com/eclipse/che/issues/19307,Logs,,,,,,example,,,,,,Program anomaly issue,7.25070602,1,70,3,0.1177893519,7.905659722
+img,https://github.com/godotengine/godot/issues/54059,Output,,,,,,example,,,,,,Program anomaly issue,36.1449537,1,35,1,0.1004513889,0.1004513889
+img,https://github.com/rancher/rancher/issues/17622,Output,Output,,,,,example,example,,,,,Program anomaly issue,2.91608796,0,42,1,2.916087963,2.916087963
+img,https://github.com/qgis/qgis/issues/36287,Logs,,,,,,example,,,,,,Program anomaly issue,1.14530093,2,168,4,0.004803240741,1.140625
+img,https://github.com/elastic/kibana/issues/15668,Output,,,,,,example,,,,,,GUI-related issue,435.910822,3,30,3,35.80368056,428.8626968
+img,https://github.com/grafana/grafana/issues/34490,Diagram,Diagram,,,,,example,example,,,,,Program anomaly issue,3.77768519,0,36,0,,
+img,https://github.com/godotengine/godot/issues/44331,Others,,,,,,example,,,,,,Program anomaly issue,0.01111111,1,27,1,0.01109953704,0.01109953704
+img,https://github.com/vector-im/element-web/issues/19623,UserInterface,,,,,,additional information,,,,,,GUI-related issue,0.19934028,1,10,1,0.09016203704,0.09016203704
+img,https://github.com/eclipse/che/issues/16341,Logs,,,,,,additional information,,,,,,Program anomaly issue,75.2290162,0,57,0,,
+img,https://github.com/qgis/qgis/issues/34524,UserInterface,UserInterface,,,,,example,example,,,,,GUI-related issue,0.91174769,3,19,5,0.0390625,0.9117361111
+img,https://github.com/godotengine/godot/issues/12420,Logs,,,,,,example,,,,,,Program anomaly issue,350.313484,1,24,1,350.3134838,350.3134838
+img,https://github.com/wordpress/gutenberg/issues/29311,UserInterface,,,,,,example,,,,,,GUI-related issue,26.5661227,1,15,1,26.56611111,26.56611111
+img,https://github.com/elastic/kibana/issues/16530,Output,,,,,,example,,,,,,Program anomaly issue,2.82711806,0,6,0,,
+img,https://github.com/grafana/grafana/issues/24399,Output,,,,,,example,,,,,,Program anomaly issue,6.58108796,2,40,8,0.607037037,5.912858796
+img,https://github.com/microsoft/vscode/issues/128445,Output,,,,,,example,,,,,,Program anomaly issue,14.8541782,4,51,10,0.7859259259,14.85699074
+img,https://github.com/microsoft/vscode/issues/90490,Output,,,,,,additional information,,,,,,Program anomaly issue,0.08023148,1,5,2,15.07061343,15.07115741
+img,https://github.com/elastic/kibana/issues/104056,Diagram,Output,,,,,example,example,,,,,Program anomaly issue,11.2605787,3,95,4,2.31E-05,11.2605787
+img,https://github.com/rancher/rancher/issues/20468,Output,Output,Output,,,,example,example,example,,,,Program anomaly issue,4.90657407,2,35,4,0.6349421296,4.906574074
+img,https://github.com/microsoft/vscode/issues/91483,Output,,,,,,example,,,,,,GUI-related issue,0.89871528,0,105,0,,
+img,https://github.com/magento/magento2/issues/9929,Output,,,,,,example,,,,,,Program anomaly issue,101.313958,2,77,3,0.7037037037,101.3139583
+img,https://github.com/cleverraven/cataclysm-dda/issues/24955,Diagram,,,,,,example,,,,,,Program anomaly issue,27.0463657,5,51,5,0.04925925926,27.08262731
+img,https://github.com/microsoft/powertoys/issues/8133,Output,Output,,,,,example,example,,,,,GUI-related issue,10.2389352,3,83,3,0.005405092593,0.03027777778
+img,https://github.com/vector-im/element-web/issues/7548,UserInterface,,,,,,additional information,,,,,,GUI-related issue,2.62565972,2,2,5,1.567476852,2.625659722
+img,https://github.com/ytdl-org/youtube-dl/issues/14582,Logs,,,,,,example,,,,,,Network issue,1564.00123,7,149,15,1.389224537,1230.068588
+img,https://github.com/godotengine/godot/issues/31118,Logs,,,,,,additional information,,,,,,Program anomaly issue,66.5999884,0,16,0,,
+img,https://github.com/cleverraven/cataclysm-dda/issues/44148,Output,Configuration,,,,,example,example,,,,,Program anomaly issue,214.462477,1,230,1,214.4624769,214.4624769
+img,https://github.com/wordpress/gutenberg/issues/12139,Output,Output,Code,,,,example,example,example,,,,Program anomaly issue,1.41427083,1,85,2,0.7115277778,0.7866782407
+img,https://github.com/vector-im/element-web/issues/6243,UserInterface,,,,,,additional information,,,,,,GUI-related issue,0.03145833,1,0,1,0.00650462963,0.00650462963
+img,https://github.com/elastic/kibana/issues/44737,Logs,,,,,,example,,,,,,Program anomaly issue,1.06886574,1,180,1,1.16E-05,1.16E-05
+img,https://github.com/grafana/grafana/issues/22749,Diagram,,,,,,example,,,,,,Program anomaly issue,315.071609,1,63,1,0.001608796296,0.001608796296
+img,https://github.com/elastic/elasticsearch/issues/57846,Output,,,,,,example,,,,,,Program anomaly issue,483.409595,2,63,8,0.007708333333,483.4095949
+img,https://github.com/microsoft/typescript/issues/22834,Output,,,,,,example,,,,,,Program anomaly issue,31.069919,1,32,6,20.91553241,31.06991898
+img,https://github.com/eclipse/che/issues/19873,Output,,,,,,example,,,,,,Program anomaly issue,0.6131713,0,98,0,,
+img,https://github.com/tensorflow/tensorflow/issues/27520,Logs,Logs,,,,,additional information,example,,,,,Program anomaly issue,1035.26041,2,275,1,1021.220706,1021.220706
+img,https://github.com/elastic/kibana/issues/67139,UserInterface,,,,,,additional information,,,,,,GUI-related issue,172.859005,2,5,2,1.16E-05,0.6783449074
+img,https://github.com/microsoft/vscode/issues/115087,UserInterface,UserInterface,,,,,additional information,example,,,,,GUI-related issue,2.31665509,2,6,3,1.199259259,2.316747685
+img,https://github.com/rancher/rancher/issues/18812,Output,,,,,,example,,,,,,Program anomaly issue,0.61876157,0,56,1,0.6187615741,0.6187615741
+img,https://github.com/microsoft/vscode/issues/132824,Diagram,Diagram,,,,,example,example,,,,,Program anomaly issue,3.18318287,3,55,4,0.1096527778,6.283842593
+img,https://github.com/microsoft/powertoys/issues/13383,Diagram,,,,,,example,,,,,,Performance issue,193.088252,4,25,7,0.2904398148,193.0882523
+img,https://github.com/microsoft/vscode/issues/107784,Diagram,Diagram,,,,,example,example,,,,,Program anomaly issue,8.04908565,0,9,0,,
+img,https://github.com/eclipse/che/issues/16130,Logs,,,,,,example,,,,,,Configuration issue,154.988056,1,98,2,0.02430555556,0.02953703704
+img,https://github.com/godotengine/godot/issues/23848,Output,,,,,,example,,,,,,Program anomaly issue,7.33304398,2,45,2,5.33119213,7.333043981
+img,https://github.com/elastic/kibana/issues/16117,Configuration,Logs,,,,,example,example,,,,,Program anomaly issue,0.56,1,60,1,0.56,0.56
+img,https://github.com/godotengine/godot/issues/37319,Output,,,,,,additional information,,,,,,Configuration issue,32.8801736,0,41,0,,
+img,https://github.com/facebook/react-native/issues/27452,Output,Output,,,,,example,example,,,,,Program anomaly issue,97.7137731,1,28,0,90.69923611,90.69923611
+img,https://github.com/grafana/grafana/issues/19802,Logs,,,,,,example,,,,,,Program anomaly issue,1.89310185,0,93,0,,
+img,https://github.com/microsoft/powertoys/issues/7503,Output,,,,,,example,,,,,,GUI-related issue,30.5643634,4,80,10,0.1098611111,30.56434028
+img,https://github.com/elastic/kibana/issues/46434,UserInterface,,,,,,example,,,,,,GUI-related issue,29.259537,2,102,5,2.31E-05,29.14146991
+img,https://github.com/rancher/rancher/issues/15831,Configuration,,,,,,example,,,,,,Configuration issue,4.79612269,0,40,1,4.795902778,4.795902778
+img,https://github.com/eclipse/che/issues/6757,Logs,,,,,,additional information,,,,,,Program anomaly issue,98.3127546,1,54,1,98.21631944,98.21631944
+img,https://github.com/microsoft/vscode/issues/86951,UserInterface,,,,,,example,,,,,,GUI-related issue,0.04375,1,114,2,0.006284722222,0.03622685185
+img,https://github.com/wordpress/gutenberg/issues/8455,Output,,,,,,example,,,,,,Program anomaly issue,2.64744213,6,35,11,0.1390972222,4.137905093
+img,https://github.com/godotengine/godot/issues/10167,Logs,,,,,,additional information,,,,,,Program anomaly issue,0.06293981,1,14,2,0.004710648148,0.007523148148
+img,https://github.com/godotengine/godot/issues/41907,Output,,,,,,example,,,,,,Program anomaly issue,2.05631944,2,65,7,0.0007986111111,609.27375
+img,https://github.com/rancher/rancher/issues/11907,Output,,,,,,additional information,,,,,,Program anomaly issue,1.44611111,0,14,1,1.446111111,1.446111111
+img,https://github.com/vector-im/element-web/issues/13481,Performance,,,,,,example,,,,,,Performance issue,33.8250463,10,56,25,0.0183912037,144.5365972
+img,https://github.com/vector-im/element-web/issues/14771,Output,Output,,,,,additional information,example,,,,,Program anomaly issue,15.362419,1,116,2,14.32759259,15.36241898
+img,https://github.com/microsoft/vscode/issues/104107,UserInterface,UserInterface,UserInterface,,,,example,example,example,,,,GUI-related issue,225.790544,2,33,3,222.1917708,225.8868866
+img,https://github.com/godotengine/godot/issues/45520,UserInterface,,,,,,example,,,,,,GUI-related issue,44.4456944,5,19,9,0.03025462963,44.44569444
+img,https://github.com/vector-im/element-web/issues/6247,Output,,,,,,example,,,,,,Program anomaly issue,140.98228,4,85,5,0.003275462963,140.9822801
+img,https://github.com/vector-im/element-web/issues/8840,Output,,,,,,additional information,,,,,,Program anomaly issue,1.56983796,1,14,2,0.01412037037,1.569837963
+img,https://github.com/godotengine/godot/issues/10459,Diagram,UserInterface,,,,,additional information,additional information,,,,,GUI-related issue,0.97043981,2,9,3,0.2247800926,0.9704398148
+img,https://github.com/cleverraven/cataclysm-dda/issues/38613,Output,,,,,,example,,,,,,Program anomaly issue,3.92121528,0,193,0,,
+img,https://github.com/microsoft/vscode/issues/110322,Logs,Logs,,,,,example,example,,,,,Program anomaly issue,7.74579861,12,29,16,0.002905092593,14.93189815
+img,https://github.com/godotengine/godot/issues/31881,Code,Logs,Logs,,,,additional information,example,example,,,,Program anomaly issue,24.2021759,0,47,0,,
+img,https://github.com/tensorflow/tensorflow/issues/11334,Performance,Performance,,,,,example,example,,,,,Performance issue,256.928692,8,299,30,0.8521296296,264.4438194
+img,https://github.com/microsoft/vscode/issues/126084,Output,,,,,,additional information,,,,,,Program anomaly issue,17.2441204,0,2,1,17.24655093,17.24655093
+img,https://github.com/zephyrproject-rtos/zephyr/issues/7613,Diagram,,,,,,example,,,,,,Performance issue,11.1934606,1,67,5,1.217025463,11.19326389
+img,https://github.com/microsoft/typescript/issues/22440,Output,,,,,,additional information,,,,,,Program anomaly issue,14.2535532,1,14,4,12.28862269,12.98547454
+img,https://github.com/eclipse/che/issues/11397,Code,,,,,,example,,,,,,Program anomaly issue,0.1872338,0,25,1,0.1872337963,0.1872337963
+img,https://github.com/mozilla-mobile/fenix/issues/15651,Output,,,,,,additional information,,,,,,Program anomaly issue,200.684363,2,36,1,12.89255787,12.89255787
+img,https://github.com/microsoft/vscode/issues/91661,Output,Output,,,,,additional information,example,,,,,Program anomaly issue,1.06538194,1,40,3,0.5279398148,1.0009375
+img,https://github.com/microsoft/vscode/issues/89736,UserInterface,,,,,,example,,,,,,GUI-related issue,0.0012963,1,26,10,0.6284837963,4.89068287
+img,https://github.com/microsoft/powertoys/issues/2417,UserInterface,UserInterface,,,,,additional information,example,,,,,GUI-related issue,311.282859,3,3,8,224.070787,311.2828588
+img,https://github.com/eclipse/che/issues/17126,UserInterface,UserInterface,UserInterface,,,,example,example,example,,,,GUI-related issue,23.6456944,0,88,1,23.64364583,23.64364583
+img,https://github.com/elastic/kibana/issues/77006,Output,,,,,,example,,,,,,Program anomaly issue,7.78399306,2,70,5,5.544791667,7.783981481
+img,https://github.com/eclipse/che/issues/19420,Logs,,,,,,example,,,,,,Program anomaly issue,222.756933,2,26,2,0.006678240741,0.01603009259
+img,https://github.com/elastic/kibana/issues/55992,Diagram,Logs,,,,,example,example,,,,,Program anomaly issue,18.0352546,3,92,3,0.005358796296,10.94084491
+img,https://github.com/grafana/grafana/issues/34693,Logs,Output,,,,,example,example,,,,,Program anomaly issue,98.2685185,3,48,12,0.01126157407,98.26851852
+img,https://github.com/elastic/kibana/issues/13803,Diagram,,,,,,example,,,,,,GUI-related issue,35.8441204,0,63,0,,
+img,https://github.com/eclipse/che/issues/13925,Output,,,,,,example,,,,,,Program anomaly issue,3.90364583,2,65,3,2.80318287,3.903645833
+img,https://github.com/eclipse/che/issues/18782,Logs,,,,,,example,,,,,,Program anomaly issue,10.0965509,1,119,2,6.976145833,7.964039352
+img,https://github.com/godotengine/godot/issues/42701,Output,,,,,,example,,,,,,Program anomaly issue,2.45732639,0,66,0,,
+img,https://github.com/godotengine/godot/issues/11162,Output,,,,,,example,,,,,,Program anomaly issue,0.68260417,1,14,1,0.1361921296,0.1361921296
+img,https://github.com/vector-im/element-web/issues/21471,Output,Output,Output,,,,example,example,example,,,,Program anomaly issue,3.87076389,0,76,0,,
+img,https://github.com/rancher/rancher/issues/19187,Output,Output,Output,Output,Output,,example,example,example,additional information,additional information,,Program anomaly issue,55.1543287,8,67,19,0.2627546296,312.4855671
+img,https://github.com/tensorflow/tensorflow/issues/35199,Others,,,,,,example,,,,,,Program anomaly issue,443.972523,5,52,8,1.959641204,196.1348495
+img,https://github.com/microsoft/vscode/issues/105145,Diagram,,,,,,additional information,,,,,,Performance issue,5.40768519,1,39,6,4.97931713,5.407685185
+img,https://github.com/elastic/kibana/issues/38038,Output,Output,,,,,example,example,,,,,GUI-related issue,1.94045139,1,69,1,2.31E-05,2.31E-05
+img,https://github.com/microsoft/powertoys/issues/6000,Output,Output,,,,,example,example,,,,,Configuration issue,130.92625,5,72,9,0.06239583333,120.5691088
+img,https://github.com/elastic/kibana/issues/14638,Logs,,,,,,example,,,,,,Program anomaly issue,4.22421296,2,132,5,0.005381944444,3.910138889
+img,https://github.com/vector-im/element-web/issues/14919,Others,,,,,,additional information,,,,,,Configuration issue,0.01443287,1,10,1,0.01443287037,0.01443287037
+img,https://github.com/wordpress/gutenberg/issues/25864,UserInterface,,,,,,example,,,,,,GUI-related issue,0.52958333,0,182,1,0.008541666667,0.008541666667
+img,https://github.com/microsoft/vscode/issues/119163,Output,,,,,,example,,,,,,Program anomaly issue,33.6748148,3,37,6,0.3334837963,12.08615741
+img,https://github.com/godotengine/godot/issues/41281,Output,,,,,,example,,,,,,Program anomaly issue,57.8757292,7,61,22,0.003252314815,199.9422917
+img,https://github.com/elastic/kibana/issues/57012,UserInterface,UserInterface,Logs,,,,example,example,example,,,,Program anomaly issue,362.131042,1,47,3,0.002800925926,315.0560995
+img,https://github.com/qgis/qgis/issues/46244,Diagram,Output,Diagram,,,,example,example,example,,,,Program anomaly issue,42.8698843,2,120,2,0.1549189815,0.4606712963
+img,https://github.com/cleverraven/cataclysm-dda/issues/47400,Output,Output,,,,,example,example,,,,,Program anomaly issue,2.81634259,1,56,1,0.004305555556,0.004305555556
+img,https://github.com/rancher/rancher/issues/17497,UserInterface,UserInterface,UserInterface,UserInterface,UserInterface,UserInterface,example,example,example,example,example,example,GUI-related issue,7.05143519,1,174,2,6.38693287,7.051435185
+img,https://github.com/eclipse/che/issues/15417,Diagram,Output,,,,,example,example,,,,,Program anomaly issue,97.0235648,0,82,1,97.02356481,97.02356481
+img,https://github.com/elastic/kibana/issues/47406,Configuration,Output,Output,Output,,,example,example,example,example,,,Program anomaly issue,6.20950231,2,125,5,0.002083333333,2.863958333
+img,https://github.com/rancher/rancher/issues/21362,Logs,,,,,,additional information,,,,,,Program anomaly issue,65.2235995,1,62,2,0.1012615741,65.22359954
+img,https://github.com/godotengine/godot/issues/30832,Output,,,,,,example,,,,,,Program anomaly issue,88.3162847,0,9,0,,
+img,https://github.com/wordpress/gutenberg/issues/31626,Output,,,,,,example,,,,,,GUI-related issue,2.65109954,2,88,3,1.874733796,2.036388889
+img,https://github.com/hashicorp/terraform/issues/25756,Logs,,,,,,example,,,,,,Network issue,0.27527778,6,9,8,0.01675925926,30.80452546
+img,https://github.com/elastic/kibana/issues/74031,Output,,,,,,example,,,,,,GUI-related issue,2.97684028,1,11,1,1.16E-05,1.16E-05
+img,https://github.com/elastic/kibana/issues/87459,Diagram,Diagram,,,,,example,example,,,,,GUI-related issue,8.88674769,4,111,8,0.001481481481,8.886712963
+img,https://github.com/ant-design/ant-design/issues/15049,UserInterface,,,,,,additional information,,,,,,GUI-related issue,0.16618056,1,0,2,0.00900462963,0.1227430556
+img,https://github.com/mozilla-mobile/fenix/issues/6716,UserInterface,UserInterface,,,,,example,example,,,,,GUI-related issue,449.474456,2,27,5,0.001493055556,154.9190046
+img,https://github.com/qgis/qgis/issues/31252,UserInterface,Configuration,,,,,example,example,,,,,GUI-related issue,36.1159144,0,22,0,,
+img,https://github.com/grafana/grafana/issues/32330,UserInterface,Logs,,,,,example,example,,,,,Program anomaly issue,2.41409722,2,38,2,0.6793171296,2.414085648
+img,https://github.com/rancher/rancher/issues/16742,Performance,,,,,,example,,,,,,Performance issue,7.00856481,0,18,1,7.008564815,7.008564815
+img,https://github.com/wordpress/gutenberg/issues/16785,UserInterface,Output,Output,,,,example,example,additional information,,,,Program anomaly issue,25.464456,1,47,2,25.46445602,25.55224537
+img,https://github.com/elastic/kibana/issues/124817,Diagram,,,,,,example,,,,,,GUI-related issue,9.89826389,4,30,5,3.47E-05,14.68971065
+img,https://github.com/vector-im/element-web/issues/12259,Logs,,,,,,example,,,,,,Performance issue,20.2721181,1,25,3,0.733587963,20.27211806
+img,https://github.com/ionic-team/ionic-framework/issues/24208,Output,Output,Output,,,,example,example,example,,,,GUI-related issue,82.2416898,1,56,0,119.9841551,119.9841551
+img,https://github.com/ansible/ansible/issues/64849,Logs,,,,,,example,,,,,,Configuration issue,0.05666667,2,32,1,0.05666666667,0.05666666667
+img,https://github.com/elastic/kibana/issues/14908,Others,,,,,,additional information,,,,,,Performance issue,6.99981481,0,34,1,99.9112963,99.9112963
+img,https://github.com/wordpress/gutenberg/issues/35353,Diagram,,,,,,example,,,,,,Program anomaly issue,2.048125,0,88,0,,
+img,https://github.com/cleverraven/cataclysm-dda/issues/42639,Output,,,,,,example,,,,,,Program anomaly issue,23.6083449,0,113,0,,
+img,https://github.com/microsoft/vscode/issues/117675,Code,,,,,,additional information,,,,,,Program anomaly issue,6.59111111,1,19,2,5.829039352,6.591111111
+img,https://github.com/microsoft/vscode/issues/105511,Others,,,,,,example,,,,,,Program anomaly issue,6.67961806,2,38,2,0.7715509259,6.680810185
+img,https://github.com/microsoft/powertoys/issues/15907,Output,,,,,,example,,,,,,Configuration issue,30.2662731,4,47,7,0.002939814815,30.26627315
+img,https://github.com/microsoft/vscode/issues/110985,Configuration,Configuration,,,,,example,example,,,,,Program anomaly issue,46.6185417,2,111,5,17.63743056,46.61853009
+img,https://github.com/microsoft/vscode/issues/124609,Code,UserInterface,,,,,example,example,,,,,GUI-related issue,72.7524306,3,88,3,0.1019212963,0.6698842593
+img,https://github.com/vector-im/element-web/issues/20941,UserInterface,,,,,,example,,,,,,GUI-related issue,17.0433449,3,22,6,0.8387731481,11.22402778
+img,https://github.com/facebook/react-native/issues/27105,Diagram,,,,,,example,,,,,,Program anomaly issue,26.8590278,1,23,0,0.004409722222,0.004409722222
+img,https://github.com/microsoft/powertoys/issues/16192,UserInterface,,,,,,example,,,,,,Program anomaly issue,5.90899306,2,46,3,0.2230439815,5.908993056
+img,https://github.com/ballerina-platform/ballerina-lang/issues/8310,Output,,,,,,example,,,,,,Program anomaly issue,110.942581,3,39,3,10.03981481,110.942581
+img,https://github.com/microsoft/vscode/issues/133810,UserInterface,,,,,,example,,,,,,Program anomaly issue,1.89733796,0,29,0,,
+img,https://github.com/grafana/grafana/issues/40013,Performance,Performance,,,,,example,example,,,,,Performance issue,8.7025463,0,62,0,,
+img,https://github.com/godotengine/godot/issues/32420,Output,Configuration,,,,,example,additional information,,,,,Program anomaly issue,1.05216435,2,40,9,0.005289351852,0.7502777778
+img,https://github.com/vector-im/element-web/issues/20455,UserInterface,,,,,,example,,,,,,GUI-related issue,0.11457176,0,38,0,,
+img,https://github.com/elastic/kibana/issues/25775,Output,,,,,,example,,,,,,Program anomaly issue,13.8865509,2,59,2,0.591712963,13.88655093
+img,https://github.com/microsoft/vscode/issues/138136,UserInterface,UserInterface,,,,,example,example,,,,,GUI-related issue,0.55569444,1,8,1,0.02528935185,0.02528935185
+img,https://github.com/ballerina-platform/ballerina-lang/issues/30628,UserInterface,,,,,,example,,,,,,Program anomaly issue,21.2829051,0,32,0,,
+img,https://github.com/microsoft/powertoys/issues/9793,Diagram,,,,,,example,,,,,,Program anomaly issue,10.7636458,2,30,1,0.4210648148,0.4210648148
+img,https://github.com/ansible/ansible/issues/76082,Logs,Configuration,,,,,example,additional information,,,,,Program anomaly issue,0.01027778,2,94,1,0.00837962963,0.00837962963
+img,https://github.com/microsoft/typescript/issues/31631,Output,Output,Output,,,,example,example,example,,,,Program anomaly issue,54.2328704,3,101,3,6.2996875,11.78916667
+img,https://github.com/godotengine/godot/issues/32294,Output,,,,,,example,,,,,,Program anomaly issue,14.0899306,1,57,2,12.46561343,12.74818287
+img,https://github.com/microsoft/powertoys/issues/13666,Others,Output,Output,,,,example,example,example,,,,Program anomaly issue,95.205463,3,86,11,4.291238426,95.20546296
+img,https://github.com/mozilla-mobile/fenix/issues/2024,UserInterface,,,,,,example,,,,,,GUI-related issue,474.164132,1,35,1,5.52875,5.52875
+img,https://github.com/elastic/kibana/issues/91940,UserInterface,UserInterface,,,,,example,example,example,,,,GUI-related issue,4.23704861,2,17,2,2.31E-05,69.71703704
+img,https://github.com/rancher/rancher/issues/13393,Output,Output,,,,,example,example,,,,,Program anomaly issue,4.95162037,2,65,2,1.114652778,4.95162037
+img,https://github.com/elastic/kibana/issues/25165,Logs,,,,,,example,,,,,,Program anomaly issue,1.63193287,3,43,8,0.02636574074,0.752037037
+img,https://github.com/rancher/rancher/issues/29646,Logs,,,,,,example,,,,,,Program anomaly issue,2.23638889,1,25,3,0.0002083333333,2.236388889
+img,https://github.com/microsoft/vscode/issues/87181,Output,Output,,,,,example,example,,,,,Program anomaly issue,0.13547454,1,19,0,6.94E-05,6.94E-05
+img,https://github.com/mozilla-mobile/fenix/issues/3447,UserInterface,,,,,,example,,,,,,GUI-related issue,440.230718,0,0,0,,
+img,https://github.com/gatsbyjs/gatsby/issues/17849,Output,Output,,,,,example,example,,,,,Program anomaly issue,838.596169,5,326,6,21.5265162,838.596169
+img,https://github.com/microsoft/vscode/issues/103964,Logs,Logs,Logs,,,,additional information,additional information,example,,,,Program anomaly issue,0.01056713,0,66,0,,
+img,https://github.com/eclipse/che/issues/18089,Logs,,,,,,example,,,,,,Program anomaly issue,188.050671,1,77,0,180.6915972,180.6915972
+img,https://github.com/microsoft/powertoys/issues/7691,Output,Output,Output,Output,Output,,example,example,example,example,example,,Program anomaly issue,0.0202662,1,166,1,0.02012731481,0.02012731481
+img,https://github.com/mozilla-mobile/fenix/issues/6672,Performance,Performance,,,,,example,example,,,,,Performance issue,451.312188,4,30,9,6.890486111,107.5128009
+img,https://github.com/microsoft/vscode/issues/111577,UserInterface,,,,,,example,,,,,,GUI-related issue,48.2957523,2,14,7,0.01538194444,6.938958333
+img,https://github.com/elastic/kibana/issues/12483,Output,,,,,,example,,,,,,Program anomaly issue,44.8012384,1,81,1,33.67394676,33.67394676
+img,https://github.com/microsoft/powertoys/issues/6865,UserInterface,UserInterface,UserInterface,UserInterface,UserInterface,,example,example,example,example,example,,GUI-related issue,2.44340278,2,73,7,0.00599537037,2.952337963
+img,https://github.com/rancher/rancher/issues/32522,Logs,,,,,,example,,,,,,Program anomaly issue,0.57578704,0,89,1,0.575787037,0.575787037
+img,https://github.com/vector-im/element-web/issues/15462,Performance,Logs,,,,,example,example,,,,,Performance issue,0.16032407,3,71,9,0.002199074074,0.1912152778
+img,https://github.com/eclipse/che/issues/9347,Diagram,,,,,,example,,,,,,Program anomaly issue,530.083924,2,264,1,0.516412037,0.516412037
+img,https://github.com/microsoft/powertoys/issues/5458,Output,,,,,,example,,,,,,Program anomaly issue,31.9918056,4,65,9,0.150625,31.99180556
+img,https://github.com/dotnet/aspnetcore.docs/issues/19882,Logs,,,,,,example,,,,,,Program anomaly issue,42.2238773,0,126,0,,
+img,https://github.com/ballerina-platform/ballerina-lang/issues/34315,Output,,,,,,example,,,,,,Program anomaly issue,22.8142361,0,5,1,22.81423611,22.81423611
+img,https://github.com/elastic/kibana/issues/43295,Logs,Logs,,,,,example,example,,,,,Program anomaly issue,29.3829398,1,84,3,0.0001967592593,29.38290509
+img,https://github.com/grafana/grafana/issues/31507,UserInterface,,,,,,example,,,,,,Program anomaly issue,1.26668981,1,105,1,0.178599537,0.178599537
+img,https://github.com/elastic/kibana/issues/91931,Output,Output,,,,,example,example,,,,,GUI-related issue,55.8675694,1,92,2,1.16E-05,0.0003472222222
+img,https://github.com/ballerina-platform/ballerina-lang/issues/13720,Output,,,,,,example,,,,,,Program anomaly issue,106.146354,1,28,2,106.1459259,106.1463542
+img,https://github.com/microsoft/vscode/issues/89518,Logs,Logs,,,,,example,example,,,,,GUI-related issue,21.1425,3,14,6,1.021863426,30.39041667
+img,https://github.com/microsoft/vscode/issues/91397,UserInterface,,,,,,additional information,,,,,,GUI-related issue,0.21983796,0,7,0,,
+img,https://github.com/godotengine/godot/issues/20487,Code,,,,,,example,,,,,,Performance issue,11.5909375,2,23,4,0.004456018519,11.5909375
+img,https://github.com/godotengine/godot/issues/9895,Output,Output,Output,,,,example,example,example,,,,Program anomaly issue,29.1098148,0,62,0,,
+img,https://github.com/godotengine/godot/issues/17773,Configuration,,,,,,example,,,,,,Program anomaly issue,1042.47483,3,69,4,639.873588,1042.474826
+img,https://github.com/ansible/ansible/issues/48022,Logs,,,,,,example,,,,,,Program anomaly issue,2.38429398,2,72,4,0.02280092593,10.30438657
+img,https://github.com/godotengine/godot/issues/26112,Output,Output,,,,,example,example,,,,,Program anomaly issue,273.233715,2,47,4,0.005486111111,273.2337153
+img,https://github.com/rancher/rancher/issues/11092,UserInterface,,,,,,example,,,,,,GUI-related issue,3.01621528,0,12,1,3.016215278,3.016215278
+img,https://github.com/microsoft/powertoys/issues/5941,Logs,,,,,,additional information,,,,,,Program anomaly issue,1.09922454,0,4,1,1.099224537,1.099224537
+img,https://github.com/microsoft/powertoys/issues/14560,UserInterface,,,,,,additional information,,,,,,GUI-related issue,5.10741898,3,21,4,0.009351851852,2.884594907
+img,https://github.com/wordpress/gutenberg/issues/32181,Logs,,,,,,additional information,,,,,,Program anomaly issue,3.11791667,3,26,3,2.820381944,3.05931713
+img,https://github.com/elastic/kibana/issues/92732,Configuration,Output,Output,,,,example,example,example,,,,Program anomaly issue,68.9515972,5,73,6,1.16E-05,68.95159722
+img,https://github.com/wordpress/gutenberg/issues/6432,UserInterface,,,,,,example,,,,,,GUI-related issue,6.82090278,1,14,2,6.57056713,6.820902778
+img,https://github.com/rancher/rancher/issues/22858,UserInterface,UserInterface,,,,,example,example,,,,,GUI-related issue,3.83237269,0,29,2,0.00912037037,3.832372685
+img,https://github.com/elastic/kibana/issues/85752,UserInterface,,,,,,additional information,,,,,,GUI-related issue,22.5153472,2,10,2,2.31E-05,22.386875
+img,https://github.com/elastic/kibana/issues/81791,Diagram,,,,,,example,,,,,,Program anomaly issue,184.963738,2,665,2,0.9639814815,2.164456019
+img,https://github.com/rancher/rancher/issues/34003,Logs,,,,,,example,,,,,,Network issue,0.00831019,0,91,1,0.008310185185,0.008310185185
+img,https://github.com/facebook/react-native/issues/26792,Diagram,,,,,,example,,,,,,Program anomaly issue,1.20696759,6,120,7,0.4422685185,413.5452315
+img,https://github.com/elastic/kibana/issues/81530,Configuration,Logs,,,,,example,example,,,,,Program anomaly issue,33.079294,2,51,3,0.007048611111,33.07929398
+img,https://github.com/elastic/kibana/issues/41945,Output,,,,,,additional information,,,,,,Network issue,246.69985,2,46,2,2.31E-05,246.6998495
+img,https://github.com/rancher/rancher/issues/26248,Diagram,Diagram,Performance,,,,example,example,example,,,,Program anomaly issue,0.30728009,1,21,1,0.3072800926,0.3072800926
+img,https://github.com/elastic/kibana/issues/23191,Output,Output,,,,,example,example,,,,,Program anomaly issue,130.04213,2,59,2,67.40490741,123.2151736
+img,https://github.com/ballerina-platform/ballerina-lang/issues/31370,Output,,,,,,example,,,,,,Program anomaly issue,54.5785648,2,7,4,0.5763541667,22.77553241
+img,https://github.com/mozilla-mobile/fenix/issues/12932,Output,,,,,,example,,,,,,Program anomaly issue,221.876424,1,42,0,214.7937731,214.7937731
+img,https://github.com/vector-im/element-web/issues/14246,,,,,,,,,,,,,,0.00400463,1,32,3,0.00400462963,0.7379861111
+img,https://github.com/microsoft/vscode/issues/107893,Logs,,,,,,example,,,,,,Program anomaly issue,0.07503472,1,13,1,0.07503472222,0.07503472222
+img,https://github.com/mozilla-mobile/fenix/issues/9026,Output,,,,,,example,,,,,,Program anomaly issue,360.95588,3,37,9,2.934074074,360.9558333
+img,https://github.com/mozilla-mobile/fenix/issues/9779,Diagram,,,,,,example,,,,,,GUI-related issue,543.307824,2,99,1,356.1795255,356.1795255
+img,https://github.com/cleverraven/cataclysm-dda/issues/24048,Output,,,,,,example,,,,,,Program anomaly issue,360.388935,1,33,5,342.6988773,360.3889352
+img,https://github.com/eclipse/che/issues/19097,Logs,,,,,,example,,,,,,Program anomaly issue,7.07087963,0,101,0,,
+img,https://github.com/ionic-team/ionic-framework/issues/16717,Output,,,,,,example,,,,,,Program anomaly issue,0.71837963,2,53,10,0.0296875,0.1325925926
+img,https://github.com/zephyrproject-rtos/zephyr/issues/15116,Output,Output,,,,,example,example,,,,,Program anomaly issue,118.005012,3,92,4,54.99311343,116.1735417
+img,https://github.com/mozilla-mobile/fenix/issues/21018,Configuration,Configuration,,,,,additional information,additional information,,,,,Program anomaly issue,0.08791667,1,82,2,0.0359375,0.08791666667
+img,https://github.com/cleverraven/cataclysm-dda/issues/29312,Output,Output,Output,,,,example,example,example,,,,Program anomaly issue,816.811053,3,150,3,8.311481481,816.8110532
+img,https://github.com/vector-im/element-web/issues/9367,UserInterface,,,,,,example,,,,,,GUI-related issue,331.929931,2,26,3,0.000162037037,331.9299306
+img,https://github.com/zephyrproject-rtos/zephyr/issues/34249,Code,Code,,,,,additional information,additional information,,,,,Program anomaly issue,0.50168981,2,96,4,0.3462037037,0.7536111111
+img,https://github.com/vector-im/element-web/issues/16370,Logs,,,,,,example,,,,,,Program anomaly issue,19.7074537,2,98,10,0.6270833333,19.7074537
+img,https://github.com/wordpress/gutenberg/issues/5940,Diagram,,,,,,additional information,,,,,,Program anomaly issue,106.415382,5,73,9,7.500798611,1066.222361
+img,https://github.com/rancher/rancher/issues/31277,Output,Output,,,,,example,example,,,,,Program anomaly issue,10.9512616,0,70,2,4.967974537,10.95126157
+img,https://github.com/facebook/react-native/issues/23343,Output,,,,,,example,,,,,,Program anomaly issue,15.5678472,2,109,1,0.669537037,0.669537037
+img,https://github.com/cleverraven/cataclysm-dda/issues/28252,Output,,,,,,example,,,,,,Program anomaly issue,744.102002,2,34,2,20.05071759,729.2448843
+img,https://github.com/grafana/grafana/issues/8872,UserInterface,,,,,,example,,,,,,GUI-related issue,17.4152546,2,15,13,0.474525463,17.41167824
+img,https://github.com/microsoft/vscode/issues/126656,UserInterface,,,,,,example,,,,,,GUI-related issue,123.274282,2,26,3,18.56081019,123.2742824
+img,https://github.com/tensorflow/tensorflow/issues/46686,Configuration,,,,,,additional information,,,,,,Program anomaly issue,6.19392361,2,101,10,0.1516666667,6.193923611
+img,https://github.com/eclipse/che/issues/6203,Logs,,,,,,additional information,,,,,,Program anomaly issue,148.231944,4,34,9,0.0625462963,148.2319444
+img,https://github.com/godotengine/godot/issues/11014,Output,,,,,,example,,,,,,GUI-related issue,5.91390046,2,27,9,0.002986111111,5.913900463
+img,https://github.com/godotengine/godot/issues/31945,Output,Output,,,,,example,example,,,,,Program anomaly issue,19.4473611,1,44,2,0.4169212963,0.7600925926
+img,https://github.com/rancher/rancher/issues/20044,Logs,,,,,,example,,,,,,Program anomaly issue,23.5911921,2,45,2,0.6475347222,23.59119213
+img,https://github.com/microsoft/vscode/issues/121148,UserInterface,,,,,,example,,,,,,GUI-related issue,14.7341204,10,55,22,0.4285763889,59.34378472
+img,https://github.com/elastic/kibana/issues/13622,Logs,,,,,,example,,,,,,Program anomaly issue,14.5263426,8,69,9,9.660219907,232.0426157
+img,https://github.com/godotengine/godot/issues/56172,Output,,,,,,example,,,,,,Program anomaly issue,27.7515278,0,89,0,,
+img,https://github.com/grafana/grafana/issues/20927,Configuration,Diagram,Diagram,,,,example,example,example,,,,Program anomaly issue,41.9710648,4,92,14,1.868090278,41.87041667
+img,https://github.com/mozilla-mobile/fenix/issues/5270,UserInterface,,,,,,example,,,,,,GUI-related issue,7.75121528,1,0,1,7.751215278,7.751215278
+img,https://github.com/godotengine/godot/issues/10952,Output,Output,Output,,,,example,example,example,,,,Program anomaly issue,378.33287,4,37,8,0.01388888889,378.3328704
+img,https://github.com/godotengine/godot/issues/54688,Output,Output,,,,,example,example,,,,,Program anomaly issue,0.06446759,0,70,0,,
+img,https://github.com/mozilla-mobile/fenix/issues/21188,Diagram,,,,,,example,,,,,,GUI-related issue,188.627118,1,47,0,181.6082407,181.6082407
+img,https://github.com/elastic/kibana/issues/80719,Logs,,,,,,example,,,,,,Program anomaly issue,38.8911343,2,23,2,14.00340278,14.23648148
+img,https://github.com/rancher/rancher/issues/22039,UserInterface,UserInterface,,,,,example,example,,,,,GUI-related issue,0.14416667,1,92,2,0.04814814815,0.1441666667
+img,https://github.com/microsoft/vscode/issues/103995,Output,,,,,,example,,,,,,Program anomaly issue,0.81792824,1,50,5,0.5577893519,0.8092361111
+img,https://github.com/gatsbyjs/gatsby/issues/22691,Logs,,,,,,additional information,,,,,,Program anomaly issue,9.44221065,4,86,12,0.704375,9.442210648
+img,https://github.com/microsoft/vscode/issues/124927,Output,,,,,,example,,,,,,Program anomaly issue,142.28463,2,24,1,134.7879977,134.7879977
+img,https://github.com/gatsbyjs/gatsby/issues/25793,UserInterface,,,,,,example,,,,,,Network issue,0.0028125,0,17,1,0.0028125,0.0028125
+img,https://github.com/cleverraven/cataclysm-dda/issues/23547,Output,Output,,,,,example,example,,,,,Program anomaly issue,73.8914931,1,37,1,0.177025463,0.177025463
+img,https://github.com/elastic/elasticsearch/issues/58589,Output,Diagram,,,,,example,example,,,,,Program anomaly issue,6.81011574,1,13,3,2.31E-05,6.084918981
+img,https://github.com/elastic/kibana/issues/69253,Output,,,,,,example,,,,,,Program anomaly issue,23.2523032,2,31,2,1.826273148,23.25261574
+img,https://github.com/facebook/react-native/issues/23997,UserInterface,Performance,Performance,,,,example,example,example,,,,Performance issue,143.5439,2,51,0,0.005034722222,0.005034722222
+img,https://github.com/microsoft/vscode/issues/121860,UserInterface,UserInterface,,,,,additional information,additional information,,,,,Configuration issue,0.1666898148,0,4,0,,
+img,https://github.com/wordpress/gutenberg/issues/29392,UserInterface,,,,,,example,,,,,,GUI-related issue,31.93443287,2,17,4,1.026759259,31.9344213

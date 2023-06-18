@@ -1,0 +1,362 @@
+class,link,visual_type0,visual_type1,visual_type2,visual_type3,visual_type4,visual_type5,visual_purpose0,visual_purpose1,visual_purpose2,visual_purpose3,visual_purpose4,visual_purpose5,bug_type,ClosedTime,Participants,DescriptionLength,Comments,FirstCommentTime,LastCommentTime
+vid,https://github.com/microsoft/vscode/issues/139853,Output,,,,,,additional information,,,,,,Program anomaly issue,99.9644097,2,28,5,0.001655092593,99.96440972
+vid,https://github.com/wordpress/gutenberg/issues/36729,Output,,,,,,example,,,,,,GUI-related issue,3.87847222,1,56,2,2.107627315,3.878472222
+vid,https://github.com/wordpress/gutenberg/issues/3351,Output,,,,,,example,,,,,,GUI-related issue,42.1247454,2,49,2,1.812569444,41.99244213
+vid,https://github.com/elastic/kibana/issues/82851,UserInterface,,,,,,example,,,,,,Configuration issue,454.206852,15,52,38,4.63E-05,454.2068519
+vid,https://github.com/godotengine/godot/issues/29511,UserInterface,,,,,,additional information,,,,,,GUI-related issue,874.208218,3,13,5,0.2593865741,874.2082176
+vid,https://github.com/microsoft/vscode/issues/114590,UserInterface,,,,,,example,,,,,,GUI-related issue,293.104016,6,41,20,0.001979166667,293.9395023
+vid,https://github.com/ballerina-platform/ballerina-lang/issues/14207,Output,,,,,,additional information,,,,,,Program anomaly issue,92.5189352,1,18,2,12.37491898,92.51893519
+vid,https://github.com/mozilla-mobile/fenix/issues/18696,UserInterface,,,,,,example,,,,,,GUI-related issue,316.749919,1,53,0,309.6308565,309.6308565
+vid,https://github.com/elastic/kibana/issues/115503,UserInterface,,,,,,example,,,,,,GUI-related issue,6.09422454,3,59,6,2.31E-05,6.094224537
+vid,https://github.com/elastic/kibana/issues/31703,UserInterface,,,,,,example,,,,,,GUI-related issue,335.253461,2,77,2,2.31E-05,335.2534491
+vid,https://github.com/elastic/kibana/issues/36526,UserInterface,,,,,,example,,,,,,GUI-related issue,10.9466667,2,17,2,1.16E-05,10.94666667
+vid,https://github.com/wordpress/gutenberg/issues/26808,UserInterface,,,,,,example,,,,,,GUI-related issue,10.7309144,1,104,1,7.424953704,7.424953704
+vid,https://github.com/microsoft/vscode/issues/90243,Output,,,,,,example,,,,,,Network issue,9.78142361,2,50,1,2.736724537,2.736724537
+vid,https://github.com/eclipse/che/issues/5337,UserInterface,,,,,,example,,,,,,Program anomaly issue,797.957141,1,23,2,30.15068287,797.9571412
+vid,https://github.com/elastic/kibana/issues/92582,Output,,,,,,example,,,,,,Program anomaly issue,226.41772,2,41,2,1.16E-05,226.4177199
+vid,https://github.com/godotengine/godot/issues/49086,Output,,,,,,additional information,,,,,,Program anomaly issue,12.3620139,1,9,1,5.896944444,5.896944444
+vid,https://github.com/elastic/kibana/issues/122208,UserInterface,,,,,,example,,,,,,GUI-related issue,7.31907407,3,109,6,2.31E-05,14.90107639
+vid,https://github.com/mozilla-mobile/fenix/issues/9849,UserInterface,,,,,,example,,,,,,Program anomaly issue,88.8642593,1,78,3,0.01578703704,88.86425926
+vid,https://github.com/elastic/kibana/issues/91119,Output,,,,,,example,,,,,,GUI-related issue,5.95291667,2,56,3,2.31E-05,0.004085648148
+vid,https://github.com/elastic/kibana/issues/105678,UserInterface,,,,,,example,,,,,,Performance issue,102.661181,1,30,1,2.31E-05,2.31E-05
+vid,https://github.com/godotengine/godot/issues/51872,UserInterface,,,,,,example,,,,,,Program anomaly issue,0.33898148,1,30,4,0.124525463,0.1417939815
+vid,https://github.com/godotengine/godot/issues/22624,UserInterface,,,,,,example,,,,,,Program anomaly issue,31.0457292,0,35,0,,
+vid,https://github.com/wordpress/gutenberg/issues/17333,Output,,,,,,example,,,,,,GUI-related issue,5.72188657,0,53,1,5.721875,5.721875
+vid,https://github.com/eclipse/che/issues/6986,Logs,,,,,,example,,,,,,Program anomaly issue,25.7856829,1,27,1,25.78568287,25.78568287
+vid,https://github.com/mozilla-mobile/fenix/issues/5411,UserInterface,,,,,,additional information,,,,,,GUI-related issue,1.65443287,1,0,1,1.65443287,1.65443287
+vid,https://github.com/wordpress/gutenberg/issues/17976,UserInterface,,,,,,example,,,,,,GUI-related issue,411.378137,3,38,6,0.02164351852,411.3781366
+vid,https://github.com/wordpress/gutenberg/issues/24806,UserInterface,,,,,,example,,,,,,GUI-related issue,149.036493,0,12,1,0.2409143519,0.2409143519
+vid,https://github.com/elastic/kibana/issues/110024,UserInterface,,,,,,additional information,,,,,,GUI-related issue,13.9459606,5,72,7,3.47E-05,13.94596065
+vid,https://github.com/godotengine/godot/issues/48772,Output,,,,,,additional information,,,,,,Program anomaly issue,7.87871528,2,112,11,0.02090277778,7.878680556
+vid,https://github.com/godotengine/godot/issues/25904,UserInterface,,,,,,additional information,,,,,,GUI-related issue,10.1568171,1,36,3,0.0153125,9.237222222
+vid,https://github.com/qgis/qgis/issues/47388,UserInterface,,,,,,example,,,,,,GUI-related issue,4.92202546,0,69,0,,
+vid,https://github.com/elastic/kibana/issues/46752,Output,,,,,,example,,,,,,Test code-related issue,537.978507,2,202,3,1.16E-05,537.9785069
+vid,https://github.com/godotengine/godot/issues/57410,UserInterface,,,,,,example,,,,,,Program anomaly issue,41.8804398,1,35,1,0.009375,0.009375
+vid,https://github.com/facebook/react-native/issues/22637,UserInterface,,,,,,additional information,,,,,,GUI-related issue,110.159306,1,63,1,110.1593056,110.1593056
+vid,https://github.com/wordpress/gutenberg/issues/26177,UserInterface,,,,,,example,,,,,,GUI-related issue,238.448947,4,62,5,24.90431713,229.6589468
+vid,https://github.com/godotengine/godot/issues/58602,Output,,,,,,example,,,,,,Program anomaly issue,2.8593287,4,136,14,0.0096875,3.472164352
+vid,https://github.com/gatsbyjs/gatsby/issues/25601,Output,,,,,,example,,,,,,GUI-related issue,7.70513889,0,104,1,7.705138889,7.705138889
+vid,https://github.com/microsoft/vscode/issues/109362,UserInterface,,,,,,additional information,,,,,,GUI-related issue,0.17123843,2,49,2,0.004224537037,2.286284722
+vid,https://github.com/godotengine/godot/issues/47850,Output,Output,Output,,,,additional information,additional information,additional information,,,,Program anomaly issue,2.7203588,3,171,4,0.1883101852,1.953981481
+vid,https://github.com/mozilla-mobile/fenix/issues/3401,UserInterface,,,,,,example,,,,,,Program anomaly issue,426.855208,2,22,4,0.002847222222,1.631469907
+vid,https://github.com/wordpress/gutenberg/issues/26208,Output,,,,,,example,,,,,,Program anomaly issue,22.5583333,2,27,2,0.001944444444,22.5577662
+vid,https://github.com/mozilla-mobile/fenix/issues/10283,Performance,,,,,,example,,,,,,GUI-related issue,308.900405,1,35,0,301.6511227,301.6511227
+vid,https://github.com/microsoft/vscode/issues/93164,Output,,,,,,example,,,,,,Program anomaly issue,1.19179398,1,37,0,8.268622685,8.268622685
+vid,https://github.com/microsoft/vscode/issues/122289,UserInterface,,,,,,additional information,,,,,,GUI-related issue,2.21253472,2,0,2,0.01894675926,0.2785648148
+vid,https://github.com/microsoft/vscode/issues/115219,UserInterface,,,,,,example,,,,,,GUI-related issue,1.18413194,2,8,3,0.1461921296,1.184247685
+vid,https://github.com/microsoft/vscode/issues/124279,Output,,,,,,example,,,,,,GUI-related issue,5.54655093,3,44,8,0.9910416667,18.06585648
+vid,https://github.com/wordpress/gutenberg/issues/12322,Output,Output,,,,,example,example,,,,,GUI-related issue,108.906377,3,112,11,49.01710648,108.9023032
+vid,https://github.com/microsoft/vscode/issues/125224,Output,,,,,,example,,,,,,Program anomaly issue,6.75623843,2,71,8,0.3893171296,29.94193287
+vid,https://github.com/microsoft/vscode/issues/110376,Output,,,,,,example,,,,,,GUI-related issue,22.4319444,1,23,1,0.05319444444,0.05319444444
+vid,https://github.com/mozilla-mobile/fenix/issues/4587,UserInterface,,,,,,example,,,,,,GUI-related issue,188.786771,2,66,3,1.3675,188.7867708
+vid,https://github.com/godotengine/godot/issues/13127,Output,,,,,,example,,,,,,GUI-related issue,289.399063,3,199,3,0.3670023148,289.3990625
+vid,https://github.com/elastic/kibana/issues/17541,Performance,Performance,,,,,example,example,,,,,GUI-related issue,868.944606,2,60,5,385.4832755,868.9446065
+vid,https://github.com/mozilla-mobile/fenix/issues/11024,Output,,,,,,example,,,,,,GUI-related issue,73.7152546,2,56,4,6.338969907,40.03633102
+vid,https://github.com/wordpress/gutenberg/issues/17158,Output,,,,,,additional information,,,,,,GUI-related issue,609.24669,2,25,2,243.0222917,609.2466898
+vid,https://github.com/microsoft/vscode/issues/120158,Output,,,,,,example,,,,,,GUI-related issue,2.50622685,2,201,1,2.463680556,2.463680556
+vid,https://github.com/mozilla-mobile/fenix/issues/10740,UserInterface,,,,,,example,,,,,,GUI-related issue,205.726759,5,44,12,16.66178241,247.717662
+vid,https://github.com/microsoft/vscode/issues/106849,Output,,,,,,example,,,,,,Program anomaly issue,0.20239583,2,40,1,0.2019791667,0.2019791667
+vid,https://github.com/eclipse/che/issues/16344,Output,,,,,,example,,,,,,Program anomaly issue,229.726308,1,82,2,223.099838,229.7262963
+vid,https://github.com/microsoft/powertoys/issues/14440,Output,,,,,,example,,,,,,Program anomaly issue,0.08928241,0,38,2,0.003344907407,0.08924768519
+vid,https://github.com/ballerina-platform/ballerina-lang/issues/29447,Output,,,,,,example,,,,,,GUI-related issue,184.069074,2,54,7,1.119016204,184.0690741
+vid,https://github.com/ballerina-platform/ballerina-lang/issues/28527,Output,,,,,,example,,,,,,Program anomaly issue,9.81722222,0,121,0,,
+vid,https://github.com/microsoft/vscode/issues/127316,UserInterface,,,,,,example,,,,,,GUI-related issue,109.152199,3,9,10,0.002233796296,109.1521991
+vid,https://github.com/microsoft/typescript/issues/37117,Output,,,,,,example,,,,,,Program anomaly issue,38.9227662,1,43,1,32.70126157,32.70126157
+vid,https://github.com/microsoft/vscode/issues/86861,Output,,,,,,example,,,,,,Program anomaly issue,0.01041667,0,15,0,,
+vid,https://github.com/wordpress/gutenberg/issues/15420,Output,,,,,,example,,,,,,Program anomaly issue,113.511238,1,47,2,2.682013889,100.7100694
+vid,https://github.com/qgis/qgis/issues/47723,Output,,,,,,example,,,,,,Program anomaly issue,10.5583102,0,243,0,,
+vid,https://github.com/microsoft/vscode/issues/90135,Output,,,,,,example,,,,,,Program anomaly issue,4.08045139,1,158,6,0.01928240741,0.1992939815
+vid,https://github.com/elastic/kibana/issues/57811,Output,,,,,,example,,,,,,Program anomaly issue,20.815625,1,79,1,3.47E-05,3.47E-05
+vid,https://github.com/grafana/grafana/issues/33890,Output,,,,,,example,,,,,,Program anomaly issue,1.24211806,0,90,0,,
+vid,https://github.com/vector-im/element-web/issues/21163,Output,,,,,,example,,,,,,Program anomaly issue,9.24627315,1,81,1,0.00443287037,0.00443287037
+vid,https://github.com/mozilla-mobile/fenix/issues/9224,Output,Output,,,,,example,example,,,,,Program anomaly issue,9.35321759,2,56,3,9.342175926,9.353217593
+vid,https://github.com/microsoft/powertoys/issues/4701,Output,,,,,,example,,,,,,Program anomaly issue,29.0508333,1,19,3,0.03983796296,29.05082176
+vid,https://github.com/wordpress/gutenberg/issues/19977,Output,,,,,,example,,,,,,Program anomaly issue,0.08759259,1,18,4,0.0243287037,0.02923611111
+vid,https://github.com/godotengine/godot/issues/17294,Output,,,,,,example,,,,,,Program anomaly issue,584.065035,1,57,1,584.156713,584.156713
+vid,https://github.com/microsoft/powertoys/issues/1166,Output,,,,,,example,,,,,,Program anomaly issue,185.09059,1,7,3,0.3048958333,185.0905903
+vid,https://github.com/elastic/kibana/issues/109421,UserInterface,,,,,,example,,,,,,GUI-related issue,12.8305787,3,82,6,1.16E-05,12.83040509
+vid,https://github.com/elastic/kibana/issues/13566,Output,,,,,,example,,,,,,GUI-related issue,161.202813,0,63,1,161.2028125,161.2028125
+vid,https://github.com/microsoft/vscode/issues/112816,Output,,,,,,example,,,,,,GUI-related issue,18.9521759,0,6,1,19.0972338,19.0972338
+vid,https://github.com/microsoft/vscode/issues/121125,Output,,,,,,example,,,,,,Program anomaly issue,24.6725694,1,58,0,3.47E-05,3.47E-05
+vid,https://github.com/wordpress/gutenberg/issues/25629,UserInterface,,,,,,example,,,,,,GUI-related issue,8.03321759,0,52,0,,
+vid,https://github.com/elastic/kibana/issues/104419,Output,,,,,,example,,,,,,Program anomaly issue,8.36599537,4,72,10,2.31E-05,9.941030093
+vid,https://github.com/mozilla-mobile/fenix/issues/14271,UserInterface,,,,,,example,,,,,,GUI-related issue,35.1758102,2,52,3,5.390416667,35.17581019
+vid,https://github.com/ballerina-platform/ballerina-lang/issues/28684,Code,,,,,,example,,,,,,Program anomaly issue,20.9869907,1,66,2,0.2417824074,0.2490972222
+vid,https://github.com/microsoft/vscode/issues/120446,UserInterface,,,,,,example,,,,,,GUI-related issue,90.7308912,2,23,1,3.651898148,3.651898148
+vid,https://github.com/vector-im/element-web/issues/14377,Output,,,,,,example,,,,,,Performance issue,1.01104167,0,21,3,0.1365740741,1.011041667
+vid,https://github.com/godotengine/godot/issues/26735,Output,,,,,,example,,,,,,Program anomaly issue,0.4034838,3,61,3,0.1182407407,0.281412037
+vid,https://github.com/godotengine/godot/issues/13109,Output,,,,,,example,,,,,,Program anomaly issue,1.70914352,2,94,4,0.004826388889,0.9822569444
+vid,https://github.com/vector-im/element-web/issues/17576,UserInterface,,,,,,example,,,,,,GUI-related issue,3.91658565,2,7,2,2.074953704,2.118194444
+vid,https://github.com/godotengine/godot/issues/51675,UserInterface,,,,,,example,,,,,,GUI-related issue,7.66930556,0,48,1,0.001111111111,0.001111111111
+vid,https://github.com/elastic/kibana/issues/91519,Logs,,,,,,example,,,,,,Program anomaly issue,22.9512731,2,51,8,3.47E-05,22.95127315
+vid,https://github.com/elastic/kibana/issues/122656,Output,,,,,,example,,,,,,Program anomaly issue,0.35206019,1,91,1,2.31E-05,2.31E-05
+vid,https://github.com/wordpress/gutenberg/issues/14871,Output,,,,,,example,,,,,,Program anomaly issue,2.90108796,1,128,3,0.001018518519,1.787650463
+vid,https://github.com/elastic/kibana/issues/30563,Performance,Performance,,,,,example,example,,,,,Program anomaly issue,31.7679167,2,19,5,1.16E-05,32.02777778
+vid,https://github.com/ballerina-platform/ballerina-lang/issues/29703,Output,,,,,,additional information,,,,,,Program anomaly issue,0.18553241,0,1,0,,
+vid,https://github.com/vector-im/element-web/issues/19003,UserInterface,,,,,,example,,,,,,GUI-related issue,30.922419,4,79,6,11.01513889,25.10195602
+vid,https://github.com/microsoft/vscode/issues/138715,Logs,,,,,,example,,,,,,Performance issue,1.25797454,1,23,2,0.0803587963,1.257418981
+vid,https://github.com/wordpress/gutenberg/issues/37716,UserInterface,,,,,,example,,,,,,GUI-related issue,1.46262731,1,67,3,0.312037037,0.7056134259
+vid,https://github.com/elastic/kibana/issues/30717,UserInterface,,,,,,example,,,,,,GUI-related issue,863.499896,3,47,6,1.16E-05,863.4998843
+vid,https://github.com/woocommerce/woocommerce/issues/30209,UserInterface,,,,,,example,,,,,,GUI-related issue,263.790521,1,85,1,6.154490741,6.154490741
+vid,https://github.com/elastic/kibana/issues/120905,Output,,,,,,example,,,,,,Program anomaly issue,0.2030787,2,89,2,2.31E-05,0.2030787037
+vid,https://github.com/eclipse/che/issues/11744,Output,,,,,,additional information,,,,,,Program anomaly issue,56.0315046,0,18,0,,
+vid,https://github.com/microsoft/vscode/issues/119339,UserInterface,,,,,,example,,,,,,Program anomaly issue,6.36158565,1,22,2,5.331331019,5.469884259
+vid,https://github.com/wordpress/gutenberg/issues/26473,UserInterface,,,,,,example,,,,,,GUI-related issue,114.851088,3,58,3,7.068657407,114.851088
+vid,https://github.com/elastic/kibana/issues/15538,UserInterface,,,,,,example,,,,,,GUI-related issue,0.061875,1,23,1,0.003981481481,0.003981481481
+vid,https://github.com/wordpress/gutenberg/issues/33283,Output,,,,,,example,,,,,,Program anomaly issue,35.0440162,2,103,12,13.1580787,14.91405093
+vid,https://github.com/ant-design/ant-design/issues/23784,UserInterface,,,,,,additional information,,,,,,GUI-related issue,0.16577546,3,14,4,0.0005092592593,0.1417939815
+vid,https://github.com/elastic/kibana/issues/111198,Output,,,,,,example,,,,,,Program anomaly issue,9.60103009,3,77,5,2.31E-05,59.65988426
+vid,https://github.com/wordpress/gutenberg/issues/28989,UserInterface,,,,,,example,,,,,,GUI-related issue,1.13988426,4,70,7,0.03958333,1.07152778
+vid,https://github.com/wordpress/gutenberg/issues/12978,Output,,,,,,example,,,,,,Program anomaly issue,52.2688542,3,18,7,1.063391204,35.82603009
+vid,https://github.com/mozilla-mobile/fenix/issues/11690,Output,,,,,,example,,,,,,Program anomaly issue,56.2203356,1,31,1,48.1409838,48.1409838
+vid,https://github.com/mozilla-mobile/fenix/issues/6247,Output,,,,,,example,,,,,,Program anomaly issue,116.287234,3,88,5,64.48903935,116.2872338
+vid,https://github.com/microsoft/vscode/issues/97808,UserInterface,,,,,,example,,,,,,GUI-related issue,515.027234,4,48,4,14.04456019,515.0371644
+vid,https://github.com/eclipse/che/issues/10360,Output,,,,,,example,,,,,,Program anomaly issue,66.7611574,0,107,0,,
+vid,https://github.com/mozilla-mobile/fenix/issues/4240,UserInterface,,,,,,example,,,,,,Program anomaly issue,7.23739583,2,41,6,1.096909722,10.0200463
+vid,https://github.com/elastic/kibana/issues/61921,UserInterface,,,,,,example,,,,,,GUI-related issue,0.16568287,2,15,2,2.31E-05,0.1656828704
+vid,https://github.com/qgis/qgis/issues/36820,Output,,,,,,example,,,,,,Program anomaly issue,21.4574769,2,84,3,0.1084490741,0.6674768519
+vid,https://github.com/godotengine/godot/issues/45318,Output,,,,,,example,,,,,,Program anomaly issue,68.8484259,2,33,3,0.00650462963,68.84842593
+vid,https://github.com/mozilla-mobile/fenix/issues/10287,Output,,,,,,example,,,,,,Program anomaly issue,103.316181,1,65,1,0.1615972222,0.1615972222
+vid,https://github.com/microsoft/vscode/issues/124314,UserInterface,,,,,,example,,,,,,Program anomaly issue,3.73158565,0,5,0,,
+vid,https://github.com/elastic/kibana/issues/31474,Output,,,,,,example,,,,,,Program anomaly issue,20.6649884,1,48,1,0.0002777777778,0.0002777777778
+vid,https://github.com/wordpress/gutenberg/issues/30803,Output,,,,,,example,,,,,,Program anomaly issue,77.3141204,4,7,12,14.16809028,86.29461806
+vid,https://github.com/wordpress/gutenberg/issues/31353,UserInterface,,,,,,example,,,,,,GUI-related issue,5.54815972,1,88,1,3.54375,3.54375
+vid,https://github.com/grafana/grafana/issues/13854,Output,Logs,,,,,additional information,additional information,,,,,Program anomaly issue,1.9137963,1,5,1,1.855787037,1.855787037
+vid,https://github.com/mozilla-mobile/fenix/issues/15296,Output,,,,,,example,,,,,,Program anomaly issue,3.23393519,2,66,4,1.622881944,9.106087963
+vid,https://github.com/godotengine/godot/issues/52207,Output,Output,Output,Output,,,example,example,example,example,,,Program anomaly issue,47.5111806,2,71,2,0.1786111111,47.51111111
+vid,https://github.com/wordpress/gutenberg/issues/28742,Output,,,,,,example,,,,,,GUI-related issue,392.458542,1,95,1,95.57356481,95.57356481
+vid,https://github.com/elastic/kibana/issues/81782,Output,,,,,,example,,,,,,GUI-related issue,198.922789,2,120,2,2.31E-05,198.9227894
+vid,https://github.com/mozilla-mobile/fenix/issues/3390,UserInterface,,,,,,example,,,,,,GUI-related issue,715.888877,3,27,3,327.1121991,715.8888773
+vid,https://github.com/godotengine/godot/issues/15936,Output,,,,,,additional information,,,,,,Program anomaly issue,437.889248,3,11,3,306.3680208,437.8892477
+vid,https://github.com/microsoft/vscode/issues/103918,Output,,,,,,example,,,,,,Program anomaly issue,0.66322917,0,22,0,,
+vid,https://github.com/elastic/kibana/issues/128360,Output,Output,,,,,example,example,,,,,Program anomaly issue,4.68322917,3,96,5,2.31E-05,48.95322917
+vid,https://github.com/microsoft/vscode/issues/133823,Logs,,,,,,additional information,,,,,,GUI-related issue,11.5777315,2,33,3,1.275173611,32.49443287
+vid,https://github.com/mozilla-mobile/fenix/issues/10732,Performance,,,,,,example,,,,,,Program anomaly issue,463.346979,1,389,0,271.3381366,271.3381366
+vid,https://github.com/eclipse/che/issues/5986,UserInterface,,,,,,example,,,,,,GUI-related issue,80.213044,2,46,2,3.109826389,80.21304398
+vid,https://github.com/vector-im/element-web/issues/21125,UserInterface,,,,,,example,,,,,,GUI-related issue,12.0358102,2,20,3,2.829988426,11.98569444
+vid,https://github.com/qgis/qgis/issues/44532,Output,,,,,,additional information,,,,,,Program anomaly issue,21.9382523,1,14,7,14.03409722,14.57686343
+vid,https://github.com/microsoft/vscode/issues/135023,Output,Output,,,,,example,example,,,,,Program anomaly issue,586.178542,1,176,2,45.07730324,587.0827662
+vid,https://github.com/grafana/grafana/issues/17861,Output,,,,,,example,,,,,,Program anomaly issue,1.17739583,0,83,0,,
+vid,https://github.com/microsoft/vscode/issues/93543,Output,,,,,,example,,,,,,Program anomaly issue,0.78490741,0,140,1,0.7847800926,0.7847800926
+vid,https://github.com/facebook/react-native/issues/26191,Output,,,,,,example,,,,,,Program anomaly issue,100.837917,2,132,4,1.847835648,3.775590278
+vid,https://github.com/wordpress/gutenberg/issues/17505,Output,,,,,,example,,,,,,Program anomaly issue,114.690012,3,129,11,2.631770833,16.41738426
+vid,https://github.com/wordpress/gutenberg/issues/22550,Output,,,,,,example,,,,,,Program anomaly issue,66.1844676,0,33,0,,
+vid,https://github.com/mozilla-mobile/fenix/issues/21357,Output,,,,,,example,,,,,,Program anomaly issue,5.36503472,1,48,2,5.364513889,5.365034722
+vid,https://github.com/gatsbyjs/gatsby/issues/25942,Performance,,,,,,example,,,,,,Program anomaly issue,273.124005,3,463,7,0.9096759259,273.1240046
+vid,https://github.com/mozilla-mobile/fenix/issues/8633,Performance,,,,,,example,,,,,,Program anomaly issue,2.77756944,3,37,4,0.09052083333,2.777569444
+vid,https://github.com/wordpress/gutenberg/issues/32295,Output,,,,,,example,,,,,,Program anomaly issue,6.45549769,1,92,1,5.40505787,5.40505787
+vid,https://github.com/microsoft/vscode/issues/94051,UserInterface,,,,,,example,,,,,,GUI-related issue,13.5915278,1,21,2,0.5890393519,13.59180556
+vid,https://github.com/eclipse/che/issues/11837,Logs,,,,,,example,,,,,,Program anomaly issue,22.7454051,1,28,1,2.874270833,2.874270833
+vid,https://github.com/elastic/kibana/issues/12666,UserInterface,,,,,,example,,,,,,GUI-related issue,1609.11742,5,47,5,8.119375,1558.785729
+vid,https://github.com/godotengine/godot/issues/43204,Output,,,,,,example,,,,,,Program anomaly issue,26.5691319,4,39,13,0.01135416667,30.23564815
+vid,https://github.com/microsoft/vscode/issues/109569,Output,,,,,,example,,,,,,GUI-related issue,0.09719907,0,14,0,,
+vid,https://github.com/microsoft/vscode/issues/125616,Output,,,,,,example,,,,,,Program anomaly issue,61.1761806,2,74,3,1.052731481,2.996886574
+vid,https://github.com/eclipse/che/issues/5881,Output,,,,,,example,,,,,,Program anomaly issue,18.7069676,0,55,0,,
+vid,https://github.com/microsoft/vscode/issues/104931,Output,,,,,,example,,,,,,Program anomaly issue,16.830544,2,56,2,16.41274306,16.83034722
+vid,https://github.com/wordpress/gutenberg/issues/33653,Output,,,,,,example,,,,,,Program anomaly issue,6.87144676,0,92,1,0.0009490740741,0.0009490740741
+vid,https://github.com/elastic/kibana/issues/92288,Output,,,,,,example,,,,,,Program anomaly issue,6.96627315,3,64,3,0.0002777777778,0.1108101852
+vid,https://github.com/qgis/qgis/issues/40720,Output,,,,,,example,,,,,,Datebase-related issue,47.5093403,3,96,12,0.1709143519,49.45633102
+vid,https://github.com/wordpress/gutenberg/issues/10202,Output,,,,,,example,,,,,,GUI-related issue,7.85268519,0,19,2,0.00275462963,7.852685185
+vid,https://github.com/vector-im/element-web/issues/7347,Output,,,,,,example,,,,,,GUI-related issue,392.539306,1,43,2,11.12347222,392.5393056
+vid,https://github.com/elastic/kibana/issues/20132,Output,Output,,,,,example,example,,,,,Program anomaly issue,227.924398,8,28,12,0.1296064815,223.8147106
+vid,https://github.com/mozilla-mobile/fenix/issues/6922,Logs,,,,,,example,,,,,,Program anomaly issue,6.94523148,0,391,1,6.945231481,6.945231481
+vid,https://github.com/elastic/kibana/issues/125346,Output,,,,,,example,,,,,,Program anomaly issue,32.6022222,3,67,7,2.31E-05,33.03738426
+vid,https://github.com/godotengine/godot/issues/15044,Output,,,,,,example,,,,,,GUI-related issue,14.1527083,4,118,16,0.6144675926,92.89336806
+vid,https://github.com/godotengine/godot/issues/21066,UserInterface,,,,,,example,,,,,,GUI-related issue,8.1750463,0,31,0,,
+vid,https://github.com/godotengine/godot/issues/20684,Output,,,,,,additional information,,,,,,Program anomaly issue,48.1801389,1,19,2,0.0184837963,0.03048611111
+vid,https://github.com/elastic/kibana/issues/14764,UserInterface,,,,,,example,,,,,,GUI-related issue,3.11346065,0,11,0,,
+vid,https://github.com/godotengine/godot/issues/37251,Output,Output,,,,,example,example,,,,,GUI-related issue,112.997674,4,75,6,0.001053240741,112.9976736
+vid,https://github.com/mozilla-mobile/fenix/issues/15297,Output,,,,,,example,,,,,,Program anomaly issue,224.611898,2,27,1,0.1051041667,0.1051041667
+vid,https://github.com/wordpress/gutenberg/issues/16564,Output,,,,,,example,,,,,,GUI-related issue,2.89469907,0,38,0,,
+vid,https://github.com/elastic/kibana/issues/12914,Output,,,,,,example,,,,,,Program anomaly issue,22.1550116,1,44,8,0.03465277778,22.15501157
+vid,https://github.com/wordpress/gutenberg/issues/12048,UserInterface,,,,,,example,,,,,,GUI-related issue,535.426389,10,34,40,171.0281829,481.9549537
+vid,https://github.com/eclipse/che/issues/14039,Performance,Performance,,,,,example,example,,,,,Performance issue,53.9975116,9,81,15,0.07725694444,53.99751157
+vid,https://github.com/ionic-team/ionic-framework/issues/19981,Output,,,,,,example,,,,,,GUI-related issue,355.388715,3,46,2,13.02306713,355.3887153
+vid,https://github.com/microsoft/vscode/issues/136509,Output,,,,,,example,,,,,,GUI-related issue,24.5276505,5,153,9,0.0365625,30.20993056
+vid,https://github.com/ionic-team/ionic-framework/issues/22783,Diagram,,,,,,example,,,,,,Configuration issue,32.9950116,1,21,1,32.99501157,32.99501157
+vid,https://github.com/elastic/kibana/issues/105683,Output,,,,,,example,,,,,,GUI-related issue,110.850752,1,55,1,1.16E-05,1.16E-05
+vid,https://github.com/godotengine/godot/issues/51021,Performance,,,,,,example,,,,,,Performance issue,14.6485069,4,134,21,0.007743055556,14.24314815
+vid,https://github.com/eclipse/che/issues/8539,Performance,,,,,,example,,,,,,Performance issue,28.837037,1,33,2,0.02552083333,28.83703704
+vid,https://github.com/mozilla-mobile/fenix/issues/18079,Output,,,,,,example,,,,,,GUI-related issue,326.377234,1,63,2,87.8299537,138.8539931
+vid,https://github.com/wordpress/gutenberg/issues/9905,Output,,,,,,example,,,,,,Program anomaly issue,47.9374884,3,69,4,0.1682060185,47.93748843
+vid,https://github.com/microsoft/vscode/issues/99354,Output,,,,,,example,,,,,,Program anomaly issue,0.25126157,5,17,11,0.006180555556,0.3633449074
+vid,https://github.com/wordpress/gutenberg/issues/27631,Logs,,,,,,example,,,,,,Program anomaly issue,0.36467593,4,146,5,0.01479166667,0.3636226852
+vid,https://github.com/eclipse/che/issues/9959,Output,,,,,,example,,,,,,GUI-related issue,31.7836574,1,64,2,0.7697453704,0.9195949074
+vid,https://github.com/microsoft/vscode/issues/127727,Output,,,,,,example,,,,,,Program anomaly issue,0.04126157,1,86,1,0.01590277778,0.01590277778
+vid,https://github.com/elastic/kibana/issues/35083,Output,,,,,,example,,,,,,GUI-related issue,78.0077662,4,42,4,2.31E-05,78.0077662
+vid,https://github.com/wordpress/gutenberg/issues/12318,Logs,,,,,,example,,,,,,Program anomaly issue,79.739919,1,57,3,0.02288194444,9.253553241
+vid,https://github.com/godotengine/godot/issues/11116,Output,,,,,,example,,,,,,Program anomaly issue,91.1430903,6,74,14,1.528969907,72.64903935
+vid,https://github.com/elastic/kibana/issues/42390,Logs,,,,,,example,,,,,,GUI-related issue,6.89231481,1,60,1,2.31E-05,2.31E-05
+vid,https://github.com/mozilla-mobile/fenix/issues/10196,Output,,,,,,example,,,,,,Program anomaly issue,108.18147,2,49,6,0.005219907407,12.73204861
+vid,https://github.com/mozilla-mobile/fenix/issues/8599,Performance,,,,,,example,,,,,,Performance issue,474.253993,2,40,1,286.7634028,286.7634028
+vid,https://github.com/elastic/kibana/issues/86962,Output,,,,,,example,,,,,,Program anomaly issue,7.18070602,2,12,2,1.973726852,7.180625
+vid,https://github.com/elastic/kibana/issues/125338,Output,Logs,,,,,example,example,,,,,GUI-related issue,0.00237269,2,77,2,2.31E-05,0.002372685185
+vid,https://github.com/wordpress/gutenberg/issues/34213,Output,,,,,,example,,,,,,Program anomaly issue,185.734514,1,105,1,17.45305556,17.45305556
+vid,https://github.com/godotengine/godot/issues/41003,Output,Output,,,,,additional information,additional information,,,,,Program anomaly issue,0.72350694,1,45,4,0.01766203704,0.7235069444
+vid,https://github.com/elastic/kibana/issues/122205,Output,,,,,,example,,,,,,Configuration issue,32.1354051,4,57,15,2.31E-05,49.93415509
+vid,https://github.com/wordpress/gutenberg/issues/3710,Logs,,,,,,example,,,,,,GUI-related issue,0.14467593,1,46,1,0.1446643519,0.1446643519
+vid,https://github.com/mozilla-mobile/fenix/issues/24096,Output,,,,,,example,,,,,,Program anomaly issue,5.36341435,1,54,1,5.363414352,5.363414352
+vid,https://github.com/microsoft/vscode/issues/107170,Output,,,,,,example,,,,,,Program anomaly issue,16.9385532,0,7,1,0.02260416667,0.02260416667
+vid,https://github.com/eclipse/che/issues/7616,Output,,,,,,example,,,,,,Program anomaly issue,77.9757523,1,30,1,55.28912037,55.28912037
+vid,https://github.com/wordpress/gutenberg/issues/31654,Output,,,,,,example,,,,,,GUI-related issue,0.03188657,0,90,0,,
+vid,https://github.com/godotengine/godot/issues/15677,Output,,,,,,additional information,,,,,,Program anomaly issue,239.902859,1,6,1,235.9088542,235.9088542
+vid,https://github.com/godotengine/godot/issues/36974,Output,,,,,,example,,,,,,GUI-related issue,356.70919,5,61,12,0.3750347222,356.7091898
+vid,https://github.com/elastic/kibana/issues/49374,Logs,,,,,,example,,,,,,Performance issue,4.35877315,1,61,1,2.31E-05,2.31E-05
+vid,https://github.com/godotengine/godot/issues/44677,UserInterface,,,,,,example,,,,,,GUI-related issue,1.08152778,1,36,1,0.005219907407,0.005219907407
+vid,https://github.com/mozilla-mobile/fenix/issues/2277,Output,,,,,,additional information,,,,,,GUI-related issue,465.684155,2,30,4,0.409849537,1.835601852
+vid,https://github.com/microsoft/vscode/issues/127795,UserInterface,,,,,,example,,,,,,GUI-related issue,41.5284606,2,46,4,0.0007986111111,41.52894676
+vid,https://github.com/wordpress/gutenberg/issues/35686,Output,,,,,,example,,,,,,GUI-related issue,114.598287,3,211,6,16.9478125,114.598287
+vid,https://github.com/ballerina-platform/ballerina-lang/issues/28189,Output,,,,,,example,,,,,,Program anomaly issue,13.9425347,1,28,1,0.9948726852,0.9948726852
+vid,https://github.com/elastic/kibana/issues/117307,Output,,,,,,example,,,,,,Program anomaly issue,15.1114699,1,76,1,2.31E-05,2.31E-05
+vid,https://github.com/mozilla-mobile/fenix/issues/16357,Output,,,,,,example,,,,,,Program anomaly issue,200.776956,2,42,5,0.001805555556,11.43337963
+vid,https://github.com/microsoft/vscode/issues/105884,Output,,,,,,additional information,,,,,,Program anomaly issue,82.2831944,2,18,5,0.08106481481,82.28315972
+vid,https://github.com/wordpress/gutenberg/issues/33617,Logs,,,,,,example,,,,,,GUI-related issue,1.24517361,1,219,1,0.3638657407,0.3638657407
+vid,https://github.com/wordpress/gutenberg/issues/29994,Output,,,,,,example,,,,,,GUI-related issue,41.0012731,0,18,2,40.33866898,41.00127315
+vid,https://github.com/microsoft/powertoys/issues/13024,Logs,,,,,,additional information,,,,,,Program anomaly issue,9.63244213,2,26,4,0.008310185185,0.03736111111
+vid,https://github.com/microsoft/vscode/issues/98964,UserInterface,,,,,,example,,,,,,GUI-related issue,154.044155,2,19,1,0.9210300926,0.9210300926
+vid,https://github.com/microsoft/vscode/issues/117284,UserInterface,,,,,,additional information,,,,,,GUI-related issue,0.23913194,1,15,1,0.2390393519,0.2390393519
+vid,https://github.com/vector-im/element-web/issues/9512,Output,,,,,,additional information,,,,,,Program anomaly issue,0.056875,1,0,1,0.05685185185,0.05685185185
+vid,https://github.com/elastic/kibana/issues/33844,UserInterface,,,,,,example,,,,,,GUI-related issue,107.208183,1,18,2,1.16E-05,107.2081829
+vid,https://github.com/ionic-team/ionic-framework/issues/23698,Output,Output,,,,,example,example,,,,,Program anomaly issue,19.0845718,3,61,4,1.952986111,33.18217593
+vid,https://github.com/microsoft/vscode/issues/123795,Output,,,,,,example,,,,,,Program anomaly issue,0.07670139,2,45,2,0.07702546296,0.08417824074
+vid,https://github.com/wordpress/gutenberg/issues/12780,Output,,,,,,example,,,,,,Program anomaly issue,574.014167,1,115,1,498.2755671,498.2755671
+vid,https://github.com/mozilla-mobile/fenix/issues/23053,Output,,,,,,example,,,,,,Program anomaly issue,0.02386574,2,138,3,0.01761574074,0.02386574074
+vid,https://github.com/godotengine/godot/issues/43695,Output,Output,,,,,additional information,additional information,,,,,GUI-related issue,10.6941319,2,15,4,0.01425925926,10.69429398
+vid,https://github.com/wordpress/gutenberg/issues/6277,Performance,,,,,,example,,,,,,Performance issue,109.080972,1,77,1,0.82625,0.82625
+vid,https://github.com/eclipse/che/issues/15614,Performance,,,,,,example,,,,,,Performance issue,226.023646,3,84,7,0.389525463,204.0697222
+vid,https://github.com/microsoft/vscode/issues/135278,Output,,,,,,additional information,,,,,,Program anomaly issue,0.60173611,0,43,0,,
+vid,https://github.com/eclipse/che/issues/9354,Logs,,,,,,example,,,,,,Program anomaly issue,529.329167,2,91,1,35.05123843,35.05123843
+vid,https://github.com/godotengine/godot/issues/58791,Output,,,,,,example,,,,,,GUI-related issue,0.26819444,0,29,0,,
+vid,https://github.com/wordpress/gutenberg/issues/35618,Output,,,,,,example,,,,,,Program anomaly issue,31.598287,1,125,2,0.1257175926,31.59828704
+vid,https://github.com/microsoft/vscode/issues/129870,Output,,,,,,example,,,,,,Program anomaly issue,13.7383218,3,90,14,0.000775462963,13.73832176
+vid,https://github.com/mozilla-mobile/fenix/issues/7267,Output,Output,,,,,example,example,,,,,Network issue,5.03625,1,71,7,0.2194675926,5.03625
+vid,https://github.com/microsoft/vscode/issues/97393,UserInterface,,,,,,example,,,,,,GUI-related issue,24.17875,1,14,1,1.153020833,1.153020833
+vid,https://github.com/mozilla-mobile/fenix/issues/12563,UserInterface,,,,,,example,,,,,,GUI-related issue,156.149572,2,42,4,0.8478935185,216.7388079
+vid,https://github.com/microsoft/vscode/issues/115153,Output,,,,,,example,,,,,,Program anomaly issue,8.83050926,0,31,0,,
+vid,https://github.com/microsoft/vscode/issues/139061,UserInterface,,,,,,example,,,,,,GUI-related issue,0.50684028,1,78,1,44.72645833,44.72645833
+vid,https://github.com/elastic/kibana/issues/121870,UserInterface,,,,,,example,,,,,,GUI-related issue,13.3657292,3,107,4,3.47E-05,13.36572917
+vid,https://github.com/wordpress/gutenberg/issues/35536,Output,Output,Output,,,,example,example,example,,,,GUI-related issue,48.4564005,2,98,7,0.0662962963,43.65310185
+vid,https://github.com/mozilla-mobile/fenix/issues/10486,Logs,,,,,,example,,,,,,Program anomaly issue,95.4602315,0,83,1,60.06480324,60.06480324
+vid,https://github.com/microsoft/vscode/issues/88024,Output,,,,,,example,,,,,,Program anomaly issue,26.3620602,0,48,0,,
+vid,https://github.com/wordpress/gutenberg/issues/16917,UserInterface,UserInterface,,,,,example,example,,,,,GUI-related issue,52.2043171,1,23,2,51.11164352,52.20431713
+vid,https://github.com/microsoft/typescript/issues/36836,Output,,,,,,example,,,,,,Program anomaly issue,148.065324,1,69,2,0.002453703704,148.0653241
+vid,https://github.com/godotengine/godot/issues/57935,Output,,,,,,example,,,,,,Program anomaly issue,8.45280093,0,92,0,,
+vid,https://github.com/microsoft/typescript/issues/22927,Output,,,,,,example,,,,,,Configuration issue,41.9094213,3,203,6,0.000787037037,41.9094213
+vid,https://github.com/godotengine/godot/issues/21169,UserInterface,,,,,,example,,,,,,GUI-related issue,44.291412,1,21,4,0.002291666667,20.93613426
+vid,https://github.com/wordpress/gutenberg/issues/7989,Output,,,,,,additional information,,,,,,Program anomaly issue,0.95699074,1,19,2,0.5807175926,0.9569907407
+vid,https://github.com/microsoft/vscode/issues/137710,UserInterface,,,,,,additional information,,,,,,GUI-related issue,6.50736111,1,6,3,0.1944444444,6.16369213
+vid,https://github.com/wordpress/gutenberg/issues/24506,UserInterface,,,,,,example,,,,,,GUI-related issue,22.0290741,12,127,38,0.5994097222,23.16887731
+vid,https://github.com/mozilla-mobile/fenix/issues/6797,Diagram,,,,,,example,,,,,,GUI-related issue,444.165914,1,30,1,49.88548611,49.88548611
+vid,https://github.com/microsoft/powertoys/issues/5525,UserInterface,,,,,,example,,,,,,GUI-related issue,204.633426,1,57,1,0.03646990741,0.03646990741
+vid,https://github.com/elastic/kibana/issues/121748,Output,,,,,,example,,,,,,Program anomaly issue,1.00320602,2,71,2,2.31E-05,1.003206019
+vid,https://github.com/microsoft/vscode/issues/139544,Output,,,,,,additional information,,,,,,Program anomaly issue,21.8438657,4,60,13,0.03157407407,66.47777778
+vid,https://github.com/mozilla-mobile/fenix/issues/4154,Performance,Performance,,,,,example,example,,,,,Performance issue,305.657176,1,58,2,305.5271759,305.6571759
+vid,https://github.com/godotengine/godot/issues/32469,Output,,,,,,example,,,,,,Program anomaly issue,36.31375,0,32,1,0.7196296296,0.7196296296
+vid,https://github.com/godotengine/godot/issues/48380,Output,,,,,,example,,,,,,Program anomaly issue,1.0812037,1,59,2,0.10694444,1.08125
+vid,https://github.com/wordpress/gutenberg/issues/26467,UserInterface,,,,,,example,,,,,,GUI-related issue,79.5989005,1,25,1,79.59890046,79.59890046
+vid,https://github.com/elastic/kibana/issues/122152,Output,,,,,,example,,,,,,Program anomaly issue,55.7438542,4,76,9,2.31E-05,83.18515046
+vid,https://github.com/microsoft/vscode/issues/133702,Output,,,,,,example,,,,,,Program anomaly issue,4.10428241,2,56,2,0.6934259259,3.601909722
+vid,https://github.com/microsoft/vscode/issues/99920,Output,,,,,,additional information,,,,,,Program anomaly issue,0.11561343,0,18,0,,
+vid,https://github.com/microsoft/vscode/issues/117194,Output,,,,,,example,,,,,,Program anomaly issue,0.42265046,1,31,3,0.2785648148,0.4223263889
+vid,https://github.com/mozilla-mobile/fenix/issues/10851,UserInterface,,,,,,example,,,,,,Program anomaly issue,80.4192708,0,63,1,3.922025463,3.922025463
+vid,https://github.com/wordpress/gutenberg/issues/37572,Output,,,,,,example,,,,,,Program anomaly issue,44.2323843,3,103,7,0.2287962963,15.08543981
+vid,https://github.com/microsoft/vscode/issues/104569,Output,,,,,,example,,,,,,Program anomaly issue,0.10915509,0,26,0,,
+vid,https://github.com/wordpress/gutenberg/issues/31845,Output,,,,,,example,,,,,,GUI-related issue,3.14775463,0,10,0,,
+vid,https://github.com/elastic/kibana/issues/92511,Output,Output,Output,,,,example,example,example,,,,GUI-related issue,188.045162,1,90,1,2.31E-05,2.31E-05
+vid,https://github.com/microsoft/vscode/issues/117005,Logs,,,,,,example,,,,,,Program anomaly issue,35.4263194,3,60,5,0.4421412037,35.47891204
+vid,https://github.com/godotengine/godot/issues/23237,Output,,,,,,example,,,,,,Program anomaly issue,654.718194,6,56,12,0.2425347222,654.7181944
+vid,https://github.com/elastic/kibana/issues/15037,Output,,,,,,example,,,,,,Program anomaly issue,2.90877315,0,79,0,,
+vid,https://github.com/facebook/react-native/issues/30748,Output,,,,,,example,,,,,,Program anomaly issue,263.848958,3,84,5,0.7414351852,262.8263079
+vid,https://github.com/facebook/react-native/issues/26210,Output,,,,,,example,,,,,,GUI-related issue,245.857593,6,356,5,22.70258102,148.4399769
+vid,https://github.com/wordpress/gutenberg/issues/29917,Output,,,,,,example,,,,,,Program anomaly issue,308.848762,0,90,2,37.08751157,308.8487616
+vid,https://github.com/microsoft/vscode/issues/120706,Output,,,,,,additional information,,,,,,Program anomaly issue,0.04221065,0,0,0,,
+vid,https://github.com/godotengine/godot/issues/36500,Output,,,,,,example,,,,,,Program anomaly issue,497.474676,3,60,6,3.932939815,497.4746759
+vid,https://github.com/gatsbyjs/gatsby/issues/28175,Logs,,,,,,example,,,,,,Program anomaly issue,7.01947917,1,26,1,6.990231481,6.990231481
+vid,https://github.com/godotengine/godot/issues/38873,Output,,,,,,example,,,,,,Program anomaly issue,541.074063,4,31,5,0.4621643519,417.6371991
+vid,https://github.com/wordpress/gutenberg/issues/7194,Output,,,,,,example,,,,,,Program anomaly issue,142.083773,1,46,1,142.0837731,142.0837731
+vid,https://github.com/microsoft/powertoys/issues/11116,Output,,,,,,example,,,,,,Program anomaly issue,56.9590741,1,54,1,56.95907407,56.95907407
+vid,https://github.com/mozilla-mobile/fenix/issues/8189,UserInterface,,,,,,example,,,,,,GUI-related issue,6.43783565,1,122,2,5.282372685,6.437835648
+vid,https://github.com/mozilla-mobile/fenix/issues/21148,Output,,,,,,example,,,,,,Program anomaly issue,10.6339468,2,56,2,6.016782407,10.63394676
+vid,https://github.com/gatsbyjs/gatsby/issues/24250,Output,,,,,,example,,,,,,Program anomaly issue,6.72078704,3,80,8,0.08550925926,8.676481481
+vid,https://github.com/wordpress/gutenberg/issues/6236,UserInterface,,,,,,example,,,,,,GUI-related issue,29.0777431,0,71,1,29.07774306,29.07774306
+vid,https://github.com/wordpress/gutenberg/issues/38421,UserInterface,,,,,,example,,,,,,GUI-related issue,2.66263889,1,112,2,1.953958333,2.662638889
+vid,https://github.com/mozilla-mobile/fenix/issues/17755,Output,,,,,,example,,,,,,Program anomaly issue,30.0557639,3,52,4,0.1360300926,41.07225694
+vid,https://github.com/godotengine/godot/issues/20716,Output,,,,,,example,,,,,,Program anomaly issue,110.727454,0,22,0,,
+vid,https://github.com/eclipse/che/issues/16563,Output,,,,,,example,,,,,,Program anomaly issue,168.005231,3,75,5,22.19946759,168.0052315
+vid,https://github.com/elastic/kibana/issues/43564,UserInterface,,,,,,additional information,,,,,,GUI-related issue,1.05041667,4,28,4,0.03363425926,1.050416667
+vid,https://github.com/mozilla-mobile/fenix/issues/18254,Logs,,,,,,example,,,,,,Program anomaly issue,223.516644,3,41,3,8.860347222,35.97467593
+vid,https://github.com/vector-im/element-web/issues/17567,UserInterface,,,,,,additional information,,,,,,GUI-related issue,2.24756944,1,0,3,0.1807407407,0.4800694444
+vid,https://github.com/grafana/grafana/issues/13853,Output,,,,,,additional information,,,,,,Program anomaly issue,1.99810185,0,0,0,,
+vid,https://github.com/godotengine/godot/issues/34639,Output,,,,,,example,,,,,,Program anomaly issue,3.06552083,1,43,2,0.008333333333,0.05988425926
+vid,https://github.com/wordpress/gutenberg/issues/26716,Output,,,,,,example,,,,,,GUI-related issue,440.726366,1,31,2,0.0007291666667,440.1719097
+vid,https://github.com/godotengine/godot/issues/49507,UserInterface,,,,,,example,,,,,,GUI-related issue,115.216192,1,30,1,112.7776273,112.7776273
+vid,https://github.com/qgis/qgis/issues/34541,Output,,,,,,example,,,,,,Program anomaly issue,4.84006944,3,13,13,0.001990740741,4.840069444
+vid,https://github.com/mozilla-mobile/fenix/issues/9143,Output,,,,,,example,,,,,,Program anomaly issue,248.845451,2,56,2,47.8615162,248.8454514
+vid,https://github.com/godotengine/godot/issues/57590,UserInterface,,,,,,example,,,,,,GUI-related issue,0.03131944,1,34,1,0.03131944444,0.03131944444
+vid,https://github.com/godotengine/godot/issues/36009,Output,,,,,,example,,,,,,Program anomaly issue,318.617072,4,49,5,0.1243981481,318.6170718
+vid,https://github.com/mozilla-mobile/fenix/issues/3255,Output,,,,,,example,,,,,,Program anomaly issue,432.249063,3,30,5,0.4481597222,5.913425926
+vid,https://github.com/eclipse/che/issues/18743,Performance,,,,,,example,,,,,,Program anomaly issue,238.852755,2,84,2,9.06369213,211.5001157
+vid,https://github.com/ballerina-platform/ballerina-lang/issues/28162,Output,,,,,,additional information,,,,,,Program anomaly issue,25.2790046,0,15,0,,
+vid,https://github.com/mozilla-mobile/fenix/issues/4740,Output,,,,,,additional information,,,,,,Program anomaly issue,137.435093,2,9,3,0.0003703703704,137.4350926
+vid,https://github.com/elastic/kibana/issues/87161,Output,,,,,,example,,,,,,Program anomaly issue,0.39751157,1,18,1,1.16E-05,1.16E-05
+vid,https://github.com/godotengine/godot/issues/19125,Output,,,,,,additional information,,,,,,Program anomaly issue,336.802431,2,22,3,335.7890972,336.802419
+vid,https://github.com/mozilla-mobile/fenix/issues/7503,Logs,,,,,,example,,,,,,Program anomaly issue,24.709838,3,31,5,0.001215277778,24.70983796
+vid,https://github.com/elastic/kibana/issues/78528,Output,,,,,,example,,,,,,GUI-related issue,3.34586806,2,70,4,2.876400463,3.127847222
+vid,https://github.com/elastic/kibana/issues/116244,Output,,,,,,example,,,,,,Program anomaly issue,1.69957176,3,73,4,3.47E-05,0.4056712963
+vid,https://github.com/mozilla-mobile/fenix/issues/10718,Output,,,,,,example,,,,,,Program anomaly issue,85.2814583,1,63,1,1.494270833,1.494270833
+vid,https://github.com/wordpress/gutenberg/issues/28245,UserInterface,,,,,,example,,,,,,GUI-related issue,25.7884375,0,38,0,,
+vid,https://github.com/mozilla-mobile/fenix/issues/7495,Logs,,,,,,example,,,,,,Program anomaly issue,578.406435,2,35,4,0.5983217593,578.4064352
+vid,https://github.com/vector-im/element-web/issues/18640,Output,,,,,,example,,,,,,GUI-related issue,4.0615625,1,28,1,0.7464699074,0.7464699074
+vid,https://github.com/godotengine/godot/issues/32867,Output,,,,,,additional information,,,,,,GUI-related issue,486.192975,4,17,4,177.052338,417.5933218
+vid,https://github.com/wordpress/gutenberg/issues/29640,UserInterface,,,,,,example,,,,,,GUI-related issue,0.13513889,1,76,3,0.01643518519,0.1291898148
+vid,https://github.com/grafana/grafana/issues/8884,Diagram,Diagram,Diagram,,,,example,additional information,example,,,,Program anomaly issue,6.74648148,1,72,1,0.4981134259,0.4981134259
+vid,https://github.com/eclipse/che/issues/7146,Output,,,,,,example,,,,,,GUI-related issue,804.104873,2,17,1,42.16957176,42.16957176
+vid,https://github.com/qgis/qgis/issues/30948,Output,,,,,,example,,,,,,Program anomaly issue,516.129352,1,20,2,514.3956481,516.1275694
+vid,https://github.com/godotengine/godot/issues/35642,Output,Output,,,,,additional information,example,,,,,Program anomaly issue,319.873009,3,37,4,0.6327083333,319.8730093
+vid,https://github.com/wordpress/gutenberg/issues/5754,Logs,,,,,,example,,,,,,Program anomaly issue,241.713565,2,85,12,110.0531597,221.2601042
+vid,https://github.com/wordpress/gutenberg/issues/16617,UserInterface,UserInterface,,,,,example,example,,,,,GUI-related issue,223.620463,3,48,5,6.958009259,182.6360417
+vid,https://github.com/godotengine/godot/issues/17966,Logs,,,,,,example,,,,,,Program anomaly issue,0.07380787,2,11,3,0.03592592593,0.07380787037
+vid,https://github.com/godotengine/godot/issues/39211,Output,,,,,,example,,,,,,GUI-related issue,2.90299769,2,97,5,0.4149074074,2.902997685
+vid,https://github.com/ant-design/ant-design/issues/23625,UserInterface,,,,,,additional information,,,,,,GUI-related issue,0.79989583,0,23,0,,
+vid,https://github.com/qgis/qgis/issues/42138,UserInterface,,,,,,additional information,,,,,,GUI-related issue,86.9584259,0,2,1,86.95842593,86.95842593
+vid,https://github.com/grafana/grafana/issues/25220,UserInterface,,,,,,example,,,,,,GUI-related issue,27.9589352,0,81,1,27.95893519,27.95893519
+vid,https://github.com/mozilla-mobile/fenix/issues/11471,UserInterface,,,,,,example,,,,,,GUI-related issue,61.310544,3,36,6,0.06756944444,54.39305556
+vid,https://github.com/microsoft/powertoys/issues/12586,UserInterface,,,,,,example,,,,,,GUI-related issue,0.42909722,2,34,2,0.2112037037,0.4290972222
+vid,https://github.com/elastic/kibana/issues/12882,Output,,,,,,example,,,,,,Program anomaly issue,2.73023148,2,32,3,0.003993055556,2.448738426
+vid,https://github.com/godotengine/godot/issues/12181,Output,,,,,,example,,,,,,Program anomaly issue,26.2459838,2,48,3,0.01216435185,25.2494213
+vid,https://github.com/elastic/kibana/issues/33457,Output,,,,,,additional information,,,,,,Program anomaly issue,350.741424,1,10,1,1.16E-05,1.16E-05
+vid,https://github.com/godotengine/godot/issues/50556,Output,Output,,,,,example,additional information,,,,,GUI-related issue,0.75027778,0,35,1,0.1446296296,0.1446296296
+vid,https://github.com/microsoft/vscode/issues/99772,Output,,,,,,example,,,,,,Program anomaly issue,145.569583,2,11,1,0.005243055556,0.005243055556
+vid,https://github.com/grafana/grafana/issues/35305,Logs,,,,,,example,,,,,,Program anomaly issue,9.20054398,1,14,1,1.289363426,1.289363426
+vid,https://github.com/eclipse/che/issues/5645,Logs,,,,,,example,,,,,,Program anomaly issue,14.0821181,0,39,0,,
+vid,https://github.com/mozilla-mobile/fenix/issues/20353,Output,,,,,,example,,,,,,GUI-related issue,0.17797454,1,62,2,0.03260416667,0.177974537
+vid,https://github.com/mozilla-mobile/fenix/issues/5447,Output,,,,,,example,,,,,,Program anomaly issue,0.11424769,1,53,1,0.0712037037,0.0712037037
+vid,https://github.com/microsoft/vscode/issues/86978,Output,,,,,,example,,,,,,Program anomaly issue,3.62902778,4,62,5,0.1425694444,3.664270833
+vid,https://github.com/wordpress/gutenberg/issues/15123,Output,,,,,,example,,,,,,Program anomaly issue,0.14456019,0,103,1,0.1445601852,0.1445601852
+vid,https://github.com/godotengine/godot/issues/30350,Output,Output,,,,,example,example,,,,,Program anomaly issue,0.52756944,3,3,3,0.08177083333,0.2419212963
+vid,https://github.com/wordpress/gutenberg/issues/3255,UserInterface,,,,,,example,,,,,,GUI-related issue,0.01975694,1,26,2,0.008993055556,0.01016203704
+vid,https://github.com/wordpress/gutenberg/issues/30131,Logs,,,,,,example,,,,,,Program anomaly issue,112.152072,2,117,2,41.34553241,112.1520718
+vid,https://github.com/qgis/qgis/issues/40894,Output,,,,,,example,,,,,,Program anomaly issue,3.16362269,2,44,4,0.7469560185,1.385428241
+vid,https://github.com/godotengine/godot/issues/53253,Output,,,,,,example,,,,,,Program anomaly issue,0.86427083,2,45,6,0.008784722222,0.1580439815
+vid,https://github.com/microsoft/vscode/issues/105959,Output,,,,,,example,,,,,,Program anomaly issue,9.02230324,1,25,2,0.1769212963,9.022881944
+vid,https://github.com/elastic/kibana/issues/46041,Output,,,,,,example,,,,,,Program anomaly issue,705.62978,2,38,2,0.1603472222,705.6297801
+vid,https://github.com/elastic/kibana/issues/126676,Logs,,,,,,example,,,,,,Program anomaly issue,13.2530556,1,49,2,2.31E-05,2.31E-05
+vid,https://github.com/mozilla-mobile/fenix/issues/10843,UserInterface,,,,,,example,,,,,,GUI-related issue,444.67375,7,47,10,3.665185185,257.4860185
+vid,https://github.com/microsoft/typescript/issues/16467,Output,,,,,,example,,,,,,Program anomaly issue,73.0612616,1,85,2,0.001145833333,9.11962963
+vid,https://github.com/elastic/kibana/issues/40725,UserInterface,,,,,,example,,,,,,GUI-related issue,7.74260417,4,20,5,1.16E-05,1.206331019
+vid,https://github.com/wordpress/gutenberg/issues/10496,UserInterface,,,,,,example,,,,,,Program anomaly issue,5.99399306,2,28,5,0.02696759259,6.348252315
+vid,https://github.com/microsoft/vscode/issues/113277,Output,,,,,,example,,,,,,Program anomaly issue,41.0638889,3,33,17,13.13148148,66.33756944
+vid,https://github.com/wordpress/gutenberg/issues/29338,Output,,,,,,example,,,,,,Program anomaly issue,39.2214352,3,79,3,0.5830555556,39.22143519
+vid,https://github.com/elastic/kibana/issues/43263,UserInterface,,,,,,example,,,,,,GUI-related issue,1.82539352,4,86,5,0.08097222222,1.825381944
+vid,https://github.com/microsoft/vscode/issues/134328,Output,Output,,,,,example,example,,,,,Program anomaly issue,65.1812847,1,120,7,1.905671296,49.04664352
+vid,https://github.com/godotengine/godot/issues/42542,Output,,,,,,example,,,,,,Program anomaly issue,0.89525463,3,44,8,0.004479166667,0.8952430556
+vid,https://github.com/microsoft/vscode/issues/141725,UserInterface,,,,,,example,,,,,,GUI-related issue,25.31827546,2,19,8,7.035347222,28.11021991
+vid,https://github.com/eclipse/che/issues/8777,Output,,,,,,example,,,,,,Program anomaly issue,181.9,1,53,1,181.9,181.9
+vid,https://github.com/microsoft/powertoys/issues/13451,Output,,,,,,example,,,,,,Program anomaly issue,31.65009259,1,163,1,31.65009259,31.65009259
+vid,https://github.com/godotengine/godot/issues/57019,UserInterface,,,,,,additional information,,,,,,Program anomaly issue,0.3730208333,0,23,0,,
+vid,https://github.com/microsoft/vscode/issues/117686,Output,,,,,,additional information,,,,,,Program anomaly issue,3.746388889,1,227,2,0.6763194444,0.6796759259
+vid,https://github.com/wordpress/gutenberg/issues/30473,Output,,,,,,example,,,,,,GUI-related issue,33.56430556,1,87,1,3.890034722,3.890034722
+vid,https://github.com/godotengine/godot/issues/46633,Output,,,,,,example,,,,,,Program anomaly issue,10.56211806,2,63,5,0.01512731481,39.07642361
+vid,https://github.com/vector-im/element-web/issues/14165,UserInterface,,,,,,example,,,,,,Network issue,0.01038194444,1,45,3,0.0009722222222,0.01038194444
+vid,https://github.com/mozilla-mobile/fenix/issues/10238,Output,,,,,,example,,,,,,Program anomaly issue,105.4350463,1,951,4,0.2835532407,1.006261574
+vid,https://github.com/elastic/kibana/issues/98216,Output,,,,,,example,,,,,,GUI-related issue,60.740625,2,98,2,2.31E-05,0.0881712963

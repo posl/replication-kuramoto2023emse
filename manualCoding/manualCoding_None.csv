@@ -1,0 +1,384 @@
+class,link,bug_type,ClosedTime,Participants,DescriptionLength,Comments,FirstCommentTime,LastCommentTime
+none,https://github.com/ballerina-platform/ballerina-lang/issues/4568,Program anomaly issue,0.006539351852,0,20,1,0.006539351852,0.006539351852
+none,https://github.com/godotengine/godot/issues/42027,Program anomaly issue,0.7013078704,2,46,3,0.01923611111,0.4558680556
+none,https://github.com/ansible/ansible/issues/25167,Program anomaly issue,49.65865741,3,135,8,0.007615740741,2.696446759
+none,https://github.com/rancher/rancher/issues/26791,Configuration issue,7.825115741,1,50,4,3.976446759,7.825115741
+none,https://github.com/eclipse/che/issues/17312,Configuration issue,111.1373264,1,100,1,111.1373264,111.1373264
+none,https://github.com/ansible/ansible/issues/24529,Program anomaly issue,1151.76912,1,82,2,18.95556713,1151.76912
+none,https://github.com/qgis/qgis/issues/36017,Configuration issue,141.7290162,3,59,6,0.2106712963,39.33267361
+none,https://github.com/hashicorp/terraform/issues/26366,Program anomaly issue,0.1302777778,2,139,2,0.1302777778,30.36604167
+none,https://github.com/ballerina-platform/ballerina-lang/issues/23113,Configuration issue,7.868611111,0,12,0,,
+none,https://github.com/ballerina-platform/ballerina-lang/issues/10326,Database-related issue,2.907372685,1,95,3,0.01501157407,2.907372685
+none,https://github.com/godotengine/godot/issues/16100,Configuration issue,365.4538657,4,33,21,0.6131597222,361.7792593
+none,https://github.com/zephyrproject-rtos/zephyr/issues/7441,Program anomaly issue,289.2248264,1,23,4,7.918020833,289.2248264
+none,https://github.com/hashicorp/terraform/issues/13776,Program anomaly issue,91.06230324,3,163,4,0.8483564815,1084.348275
+none,https://github.com/spring-projects/spring-boot/issues/11964,Program anomaly issue,0.8789583333,1,61,3,0.006967592593,0.8642592593
+none,https://github.com/ballerina-platform/ballerina-lang/issues/23890,Program anomaly issue,2.097881944,0,353,1,2.097881944,2.097881944
+none,https://github.com/tensorflow/tensorflow/issues/28238,Program anomaly issue,934.9847454,2,36,4,0.8096643519,920.9666319
+none,https://github.com/microsoft/powertoys/issues/15547,Configuration issue,15.76017361,2,46,4,4.240590278,5.139467593
+none,https://github.com/gatsbyjs/gatsby/issues/8237,GUI-related issue,193.7793866,14,299,46,0.07048611111,268.0012153
+none,https://github.com/tensorflow/tensorflow/issues/42027,Program anomaly issue,542.1802546,3,38,10,0.01622685185,542.1802546
+none,https://github.com/mozilla-mobile/fenix/issues/5951,Program anomaly issue,3.937152778,5,85,5,2.936631944,12.25961806
+none,https://github.com/gatsbyjs/gatsby/issues/10987,GUI-related issue,0.642962963,2,42,5,0.5031828704,0.642962963
+none,https://github.com/ansible/ansible/issues/20332,Configuration issue,8.6484375,7,43,46,0.006678240741,418.9802662
+none,https://github.com/ansible/ansible/issues/53860,Configuration issue,0.3312731481,2,66,5,0.3309722222,4.301203704
+none,https://github.com/elastic/kibana/issues/61083,Program anomaly issue,1.654814815,1,34,1,2.31E-05,2.31E-05
+none,https://github.com/hashicorp/terraform/issues/17350,Configuration issue,1.310046296,1,119,3,0.8869444444,779.3194792
+none,https://github.com/mozilla-mobile/fenix/issues/2134,Program anomaly issue,469.7948495,0,39,2,0.00275462963,3.798298611
+none,https://github.com/microsoft/powertoys/issues/11213,Program anomaly issue,50.36609954,3,33,14,0.4405902778,51.10322917
+none,https://github.com/ansible/ansible/issues/38551,Configuration issue,78.82943287,1,52,1,14.77560185,14.77560185
+none,https://github.com/ansible/ansible/issues/28198,Program anomaly issue,6.751226852,1,183,1,0.9207986111,0.9207986111
+none,https://github.com/vector-im/element-web/issues/9263,Configuration issue,538.2480208,3,26,5,16.6208912,538.2480208
+none,https://github.com/ansible/ansible/issues/20431,Program anomaly issue,0.1223958333,2,40,7,9.26E-05,18.5334375
+none,https://github.com/elastic/kibana/issues/40085,Program anomaly issue,9.69,1,14,1,0.0003125,0.0003125
+none,https://github.com/microsoft/typescript/issues/44422,Program anomaly issue,0.9483564815,2,147,6,0.01064814815,1.441678241
+none,https://github.com/vector-im/element-web/issues/4702,Program anomaly issue,1591.559896,0,0,0,,
+none,https://github.com/zephyrproject-rtos/zephyr/issues/20769,Configuration issue,0.06527777778,0,26,0,,
+none,https://github.com/microsoft/typescript/issues/24632,Program anomaly issue,94.53947917,0,34,1,0.003981481481,0.003981481481
+none,https://github.com/microsoft/typescript/issues/13521,Program anomaly issue,18.14199074,0,26,0,,
+none,https://github.com/ansible/ansible/issues/33021,Program anomaly issue,1003.214757,5,79,7,23.77509259,309.4357407
+none,https://github.com/vector-im/element-web/issues/3181,GUI-related issue,47.30765046,2,0,5,11.62054398,46.60478009
+none,https://github.com/microsoft/typescript/issues/37000,Program anomaly issue,174.8666088,0,21,0,,
+none,https://github.com/ansible/ansible/issues/20304,Configuration issue,52.27491898,1,40,1,52.27491898,52.27491898
+none,https://github.com/elastic/elasticsearch/issues/73309,Program anomaly issue,177.3363657,2,166,3,2.308645833,100.4012037
+none,https://github.com/ansible/ansible/issues/63000,Program anomaly issue,9.357002315,2,96,4,0.01863425926,9.357002315
+none,https://github.com/vector-im/element-web/issues/17342,Program anomaly issue,0.002060185185,0,28,2,0.0009953703704,0.002060185185
+none,https://github.com/elastic/elasticsearch/issues/49730,Configuration issue,2.782071759,1,196,1,4.63E-05,4.63E-05
+none,https://github.com/ansible/ansible/issues/49607,Program anomaly issue,148.1084838,1,171,3,4.149548611,148.1084838
+none,https://github.com/godotengine/godot/issues/49244,GUI-related issue,0.09135416667,1,43,2,0.09135416667,0.7005787037
+none,https://github.com/godotengine/godot/issues/7906,Program anomaly issue,158.7288194,7,29,11,23.82390046,158.7288194
+none,https://github.com/microsoft/vscode/issues/100913,GUI-related issue,21.59017361,2,9,2,0.4126041667,5.603391204
+none,https://github.com/ballerina-platform/ballerina-lang/issues/34734,Program anomaly issue,55.05962963,0,61,2,4.703148148,4.858090278
+none,https://github.com/ansible/ansible/issues/68269,Program anomaly issue,1.920960648,2,74,4,0.5938425926,1.920960648
+none,https://github.com/woocommerce/woocommerce/issues/22577,Configuration issue,9.153611111,2,90,5,0.0009722222222,9.153611111
+none,https://github.com/pytorch/pytorch/issues/31464,Program anomaly issue,15.55474537,3,86,14,0.04210648148,73.86834491
+none,https://github.com/woocommerce/woocommerce/issues/14216,Program anomaly issue,0.07646990741,0,94,0,,
+none,https://github.com/qgis/qgis/issues/43895,Configuration issue,43.84695602,1,130,6,0.1882175926,0.2179166667
+none,https://github.com/qgis/qgis/issues/24521,Program anomaly issue,0.5192476852,0,109,2,0.5192476852,0.5261111111
+none,https://github.com/vector-im/element-web/issues/3932,Program anomaly issue,678.7366088,2,0,2,0.4005671296,678.7366088
+none,https://github.com/godotengine/godot/issues/15133,Program anomaly issue,318.5910764,3,61,4,0.07425925926,7.54244213
+none,https://github.com/ansible/ansible/issues/22517,Configuration issue,3.014907407,1,167,2,2.615856481,3.014895833
+none,https://github.com/ansible/ansible/issues/57840,Configuration issue,1032.902037,1,350,1,4.19744213,4.19744213
+none,https://github.com/hashicorp/terraform/issues/26011,Program anomaly issue,1.671076389,16,460,22,0.002650462963,47.14770833
+none,https://github.com/qgis/qgis/issues/29639,Program anomaly issue,0.8814467593,0,41,6,0.1410300926,0.9057291667
+none,https://github.com/tensorflow/tensorflow/issues/53200,Configuration issue,14.24554398,1,67,3,0.08811342593,0.2052546296
+none,https://github.com/godotengine/godot/issues/42707,Program anomaly issue,112.0531134,2,17,2,0.3368981481,0.3644560185
+none,https://github.com/zephyrproject-rtos/zephyr/issues/21875,Configuration issue,12.97627315,1,1,1,12.97627315,12.97627315
+none,https://github.com/tensorflow/tensorflow/issues/50788,Program anomaly issue,40.35094907,2,35,8,0.009537037037,40.35094907
+none,https://github.com/godotengine/godot/issues/13243,Program anomaly issue,0.08177083333,1,40,1,0.02295138889,0.02295138889
+none,https://github.com/qgis/qgis/issues/28413,Program anomaly issue,987.0427431,1,75,4,0.2437384259,987.016088
+none,https://github.com/hashicorp/terraform/issues/14547,Program anomaly issue,833.2330556,5,522,5,0.153587963,863.4127894
+none,https://github.com/rancher/rancher/issues/14970,Configuration issue,8.120428241,1,33,1,8.120428241,8.120428241
+none,https://github.com/facebook/react-native/issues/25538,Program anomaly issue,0.9904282407,8,284,10,0.9904282407,815.6542245
+none,https://github.com/microsoft/typescript/issues/27949,Program anomaly issue,0.0927662037,0,25,0,,
+none,https://github.com/microsoft/vscode/issues/108850,Program anomaly issue,12.26275463,1,62,10,2.435300926,23.12520833
+none,https://github.com/ansible/ansible/issues/72121,Program anomaly issue,0.00306712963,1,135,1,0.00306712963,0.00306712963
+none,https://github.com/zephyrproject-rtos/zephyr/issues/30355,Network issue,173.4128819,1,198,13,0.09993055556,98.81015046
+none,https://github.com/godotengine/godot/issues/27537,Program anomaly issue,837.744375,2,107,4,0.02344907407,103.1254051
+none,https://github.com/ansible/ansible/issues/43058,Program anomaly issue,0.3924189815,0,191,1,0.3924189815,0.3924189815
+none,https://github.com/spring-projects/spring-boot/issues/23378,Configuration issue,0.0007175925926,0,3,0,,
+none,https://github.com/rancher/rancher/issues/15336,Program anomaly issue,14.82646991,1,28,1,14.82646991,14.82646991
+none,https://github.com/zephyrproject-rtos/zephyr/issues/21299,Program anomaly issue,5.077858796,2,144,4,0.000150462963,0.7847916667
+none,https://github.com/mozilla-mobile/fenix/issues/9608,Configuration issue,0.2879976852,0,12,0,,
+none,https://github.com/mozilla-mobile/fenix/issues/17443,Program anomaly issue,0.8971527778,0,100,0,,
+none,https://github.com/ansible/ansible/issues/55590,Program anomaly issue,646.5258102,6,105,10,0.0009027777778,641.3528241
+none,https://github.com/qgis/qgis/issues/41151,Program anomaly issue,47.42138889,2,183,9,0.01122685185,0.1490046296
+none,https://github.com/elastic/elasticsearch/issues/26942,Program anomaly issue,0.4915740741,2,72,4,0.001226851852,0.2730208333
+none,https://github.com/microsoft/vscode/issues/96293,Program anomaly issue,156.6869444,4,55,17,0.8366087963,191.6337153
+none,https://github.com/qgis/qgis/issues/43500,Program anomaly issue,0.007546296296,1,170,1,0.007546296296,0.007546296296
+none,https://github.com/qgis/qgis/issues/27299,Program anomaly issue,202.6101389,0,41,6,0.1471875,202.6101389
+none,https://github.com/godotengine/godot/issues/12884,Program anomaly issue,1523.714074,3,34,5,1.88099537,1523.714074
+none,https://github.com/zephyrproject-rtos/zephyr/issues/31973,Program anomaly issue,0.4186574074,0,68,0,,
+none,https://github.com/elastic/kibana/issues/41771,GUI-related issue,595.0453356,1,36,2,2.31E-05,595.0453356
+none,https://github.com/cleverraven/cataclysm-dda/issues/35977,Program anomaly issue,32.75953704,0,130,0,,
+none,https://github.com/godotengine/godot/issues/18346,Program anomaly issue,36.20355324,2,23,7,2.944143519,33.38984954
+none,https://github.com/microsoft/vscode/issues/94510,Program anomaly issue,0.05652777778,0,13,2,0.004050925926,0.05065972222
+none,https://github.com/ansible/ansible/issues/25739,Program anomaly issue,159.3426852,1,259,1,0.1043865741,0.1043865741
+none,https://github.com/godotengine/godot/issues/16076,Performance issue,1.705,7,109,22,0.07311342593,3.281967593
+none,https://github.com/vector-im/element-web/issues/7745,Network issue,78.90744213,3,20,7,0.002013888889,310.0675463
+none,https://github.com/elastic/kibana/issues/37880,GUI-related issue,274.9115625,2,37,2,2.31E-05,274.9115625
+none,https://github.com/qgis/qgis/issues/25390,Performance issue,1242.116956,0,60,9,3.617164352,476.2376042
+none,https://github.com/microsoft/powertoys/issues/12643,Program anomaly issue,10.44292824,1,196,1,0.02770833333,0.02770833333
+none,https://github.com/hashicorp/terraform/issues/15918,Program anomaly issue,732.349919,2,23,2,0.4255092593,762.5256597
+none,https://github.com/ballerina-platform/ballerina-lang/issues/28460,Program anomaly issue,48.08592593,1,34,1,47.28746528,47.28746528
+none,https://github.com/ansible/ansible/issues/31432,Configuration issue,0.5177083333,1,100,4,0.001388888889,1.871689815
+none,https://github.com/dotnet/aspnetcore.docs/issues/14923,Configuration issue,0.1900925926,0,46,0,,
+none,https://github.com/godotengine/godot/issues/53574,Program anomaly issue,0.05724537037,3,155,3,0.02670138889,0.05724537037
+none,https://github.com/vector-im/element-web/issues/7529,GUI-related issue,1123.459306,1,0,2,0.9234143519,1123.459306
+none,https://github.com/elastic/kibana/issues/106754,Program anomaly issue,1.817083333,1,19,1,3.47E-05,3.47E-05
+none,https://github.com/godotengine/godot/issues/22494,GUI-related issue,638.8994097,1,27,1,638.6696759,638.6696759
+none,https://github.com/ballerina-platform/ballerina-lang/issues/28769,Program anomaly issue,35.37278935,1,76,1,13.85715278,13.85715278
+none,https://github.com/mozilla-mobile/fenix/issues/14082,Network issue,1.457962963,2,35,2,0.006400462963,1.457962963
+none,https://github.com/zephyrproject-rtos/zephyr/issues/37264,Program anomaly issue,15.285,0,33,2,4.63E-05,0.003958333333
+none,https://github.com/zephyrproject-rtos/zephyr/issues/42740,Program anomaly issue,10.36758102,0,43,0,,
+none,https://github.com/mozilla-mobile/fenix/issues/22762,Permission/deprecation issue,0.06275462963,1,75,1,0.06275462963,0.06275462963
+none,https://github.com/qgis/qgis/issues/26445,GUI-related issue,138.5661227,0,65,5,22.75790509,138.5661227
+none,https://github.com/facebook/react-native/issues/26983,GUI-related issue,0.3773032407,1,23,1,0.3773032407,0.3773032407
+none,https://github.com/godotengine/godot/issues/36257,Performance issue,276.867037,0,26,1,276.867037,276.867037
+none,https://github.com/rancher/rancher/issues/9678,Network issue,9.93900463,6,108,7,0.7871412037,9.932847222
+none,https://github.com/hashicorp/terraform/issues/27228,Program anomaly issue,0.5818981481,2,46,3,0.1548148148,31.02217593
+none,https://github.com/tensorflow/tensorflow/issues/36451,Configuration issue,76.96865741,1,145,1,76.96865741,76.96865741
+none,https://github.com/godotengine/godot/issues/36528,Program anomaly issue,215.177662,1,51,1,215.177662,215.177662
+none,https://github.com/godotengine/godot/issues/25396,Program anomaly issue,324.240544,2,65,2,0.1220949074,324.240544
+none,https://github.com/qgis/qgis/issues/25176,Configuration issue,2.124652778,0,48,7,0.008009259259,2.132685185
+none,https://github.com/ansible/ansible/issues/46485,Program anomaly issue,7.01275463,6,401,9,0.2304050926,230.9626968
+none,https://github.com/vector-im/element-web/issues/16516,GUI-related issue,3.831006944,1,0,1,3.831006944,3.831006944
+none,https://github.com/godotengine/godot/issues/25499,Program anomaly issue,30.96864583,5,27,20,0.1720717593,30.96864583
+none,https://github.com/spring-projects/spring-boot/issues/29910,Program anomaly issue,0.0008333333333,0,3,0,,
+none,https://github.com/ansible/ansible/issues/59056,Program anomaly issue,241.7394907,5,351,18,0.3110185185,241.7394907
+none,https://github.com/mozilla-mobile/fenix/issues/2737,GUI-related issue,462.1186921,2,52,5,54.83226852,96.16990741
+none,https://github.com/tensorflow/tensorflow/issues/35697,Program anomaly issue,213.0809375,2,97,3,53.986875,213.0809375
+none,https://github.com/godotengine/godot/issues/13090,Program anomaly issue,2.333391204,2,114,2,2.333391204,132.1196759
+none,https://github.com/elastic/elasticsearch/issues/43173,Database-related issue,5.801284722,1,26,2,2.31E-05,4.63E-05
+none,https://github.com/godotengine/godot/issues/33015,Program anomaly issue,48.88458333,1,109,2,0.04986111111,0.06787037037
+none,https://github.com/vector-im/element-web/issues/3354,Program anomaly issue,3.294965278,0,9,0,,
+none,https://github.com/rancher/rancher/issues/11628,Configuration issue,2.0909375,1,26,1,2.0909375,2.0909375
+none,https://github.com/mozilla-mobile/fenix/issues/12701,GUI-related issue,61.18140046,1,6,1,54.08134259,54.08134259
+none,https://github.com/vector-im/element-web/issues/9158,GUI-related issue,70.39818287,1,80,2,2.7234375,70.39818287
+none,https://github.com/vector-im/element-web/issues/4028,Program anomaly issue,356.2531597,2,64,4,4.832905093,356.2531597
+none,https://github.com/qgis/qgis/issues/39438,Program anomaly issue,0.3959490741,0,53,2,0.001481481481,0.006759259259
+none,https://github.com/ansible/ansible/issues/26172,Program anomaly issue,1145.679525,0,146,0,0.1487731481,
+none,https://github.com/spring-projects/spring-boot/issues/29190,Configuration issue,0.0003472222222,0,3,0,,
+none,https://github.com/wordpress/gutenberg/issues/370,Program anomaly issue,50.89186343,0,38,1,50.89186343,50.89186343
+none,https://github.com/grafana/grafana/issues/13690,Program anomaly issue,19.89164352,0,42,1,19.89163194,19.89163194
+none,https://github.com/zephyrproject-rtos/zephyr/issues/27151,Configuration issue,49.87631944,1,104,7,36.55342593,49.99025463
+none,https://github.com/godotengine/godot/issues/49381,Program anomaly issue,155.1764931,1,594,2,97.67255787,155.1764931
+none,https://github.com/ansible/ansible/issues/54671,Program anomaly issue,6.860092593,1,139,5,5.88587963,9.79681713
+none,https://github.com/ballerina-platform/ballerina-lang/issues/17495,Program anomaly issue,0.1787152778,0,15,0,,
+none,https://github.com/facebook/react-native/issues/27785,Configuration issue,15.31443287,3,5,4,1.441388889,30.39108796
+none,https://github.com/cleverraven/cataclysm-dda/issues/27028,GUI-related issue,0.2765625,3,67,3,0.1691435185,0.2765625
+none,https://github.com/eclipse/che/issues/9946,Program anomaly issue,89.34619213,4,58,23,0.3003935185,89.34619213
+none,https://github.com/godotengine/godot/issues/29778,Program anomaly issue,212.8484259,1,25,3,2.46712963,139.2801505
+none,https://github.com/microsoft/typescript/issues/19134,Program anomaly issue,31.98358796,1,16,1,0.005914351852,0.005914351852
+none,https://github.com/mozilla-mobile/fenix/issues/10802,Permission/deprecation issue,82.41461806,0,14,0,,
+none,https://github.com/microsoft/vscode/issues/92128,Program anomaly issue,20.87858796,1,44,2,20.81491898,20.87858796
+none,https://github.com/cleverraven/cataclysm-dda/issues/36951,Program anomaly issue,1.62255787,3,14,7,0.02865740741,1.787662037
+none,https://github.com/elastic/kibana/issues/54645,Configuration issue,9.66625,2,86,4,2.31E-05,7.572395833
+none,https://github.com/zephyrproject-rtos/zephyr/issues/13444,Configuration issue,59.64407407,2,72,7,2.813935185,59.64407407
+none,https://github.com/elastic/kibana/issues/110465,Program anomaly issue,36.94340278,1,35,2,1.16E-05,56.9066088
+none,https://github.com/ansible/ansible/issues/34853,Network issue,1548.7225,5,127,6,2.719803241,1332.915683
+none,https://github.com/zephyrproject-rtos/zephyr/issues/7651,Program anomaly issue,0.09489583333,0,15,0,,
+none,https://github.com/microsoft/vscode/issues/110246,GUI-related issue,350.1844444,1,28,6,0.5483912037,6.640555556
+none,https://github.com/eclipse/che/issues/5209,GUI-related issue,17.10429398,0,21,2,14.20299769,17.10429398
+none,https://github.com/vector-im/element-web/issues/15921,Program anomaly issue,82.2615162,1,0,1,82.2615162,82.2615162
+none,https://github.com/eclipse/che/issues/10347,Program anomaly issue,21.92001157,0,29,1,21.92001157,21.92001157
+none,https://github.com/hashicorp/terraform/issues/15475,Configuration issue,0.2850578704,1,153,2,0.2900694444,1007.741331
+none,https://github.com/qgis/qgis/issues/47618,Program anomaly issue,25.10782407,1,44,1,0.004849537037,0.004849537037
+none,https://github.com/ballerina-platform/ballerina-lang/issues/31833,Program anomaly issue,6.7890625,0,32,0,,
+none,https://github.com/ansible/ansible/issues/31412,Program anomaly issue,2.865289352,1,356,2,0.004097222222,0.02530092593
+none,https://github.com/ansible/ansible/issues/20360,Program anomaly issue,807.9104167,2,76,2,83.61003472,807.9104167
+none,https://github.com/elastic/kibana/issues/61199,Permission/deprecation issue,0.08565972222,1,16,4,2.31E-05,0.08565972222
+none,https://github.com/godotengine/godot/issues/8190,GUI-related issue,29.39246528,2,32,3,0.2012731481,29.39246528
+none,https://github.com/mozilla-mobile/fenix/issues/12253,GUI-related issue,354.3527199,1,23,1,167.2610185,167.2610185
+none,https://github.com/tensorflow/tensorflow/issues/46366,Program anomaly issue,233.0039352,5,71,10,0.8219907407,233.0039352
+none,https://github.com/elastic/elasticsearch/issues/50763,Configuration issue,1.814270833,1,31,2,6.94E-05,9.26E-05
+none,https://github.com/tensorflow/tensorflow/issues/35336,Program anomaly issue,229.0286343,5,1035,10,1.140104167,229.0286343
+none,https://github.com/elastic/kibana/issues/68587,Program anomaly issue,14.68474537,5,12,9,2.31E-05,14.68474537
+none,https://github.com/ansible/ansible/issues/21093,Configuration issue,563.4872106,2,60,2,563.4818056,606.8865278
+none,https://github.com/zephyrproject-rtos/zephyr/issues/17202,Program anomaly issue,1.810497685,0,28,0,,
+none,https://github.com/cleverraven/cataclysm-dda/issues/20039,Configuration issue,763.2888426,5,49,7,0.04364583333,763.2888426
+none,https://github.com/tensorflow/tensorflow/issues/45986,Program anomaly issue,0.9216435185,2,38,5,0.6868634259,0.8916898148
+none,https://github.com/ansible/ansible/issues/42162,Program anomaly issue,8.149386574,17,98,51,0.009108796296,291.0363542
+none,https://github.com/elastic/kibana/issues/48019,Program anomaly issue,578.8119907,5,70,6,3.52724537,565.7523611
+none,https://github.com/ansible/ansible/issues/68585,Configuration issue,0.1059606481,1,134,1,0.1059606481,0.1059606481
+none,https://github.com/microsoft/vscode/issues/141469,Program anomaly issue,1.054050926,1,28,2,1.053842593,1.259849537
+none,https://github.com/hashicorp/terraform/issues/26541,Program anomaly issue,2.610844907,1,59,2,2.610856481,33.04892361
+none,https://github.com/godotengine/godot/issues/45810,Program anomaly issue,1.911863426,0,78,0,,
+none,https://github.com/ansible/ansible/issues/31095,Configuration issue,444.762581,3,71,4,0.2596180556,444.762581
+none,https://github.com/ansible/ansible/issues/43827,Program anomaly issue,176.2553009,7,116,14,0.1372222222,176.8933912
+none,https://github.com/mozilla-mobile/fenix/issues/14715,GUI-related issue,11.57796296,1,47,1,11.57796296,11.57796296
+none,https://github.com/wordpress/gutenberg/issues/6181,Program anomaly issue,67.29141204,1,130,7,2.582673611,22.63670139
+none,https://github.com/godotengine/godot/issues/23445,Program anomaly issue,0.5241319444,2,163,12,0.02002314815,0.3383217593
+none,https://github.com/mozilla-mobile/fenix/issues/2824,Program anomaly issue,446.3703125,2,40,4,6.624768519,6.984861111
+none,https://github.com/elastic/kibana/issues/30381,Program anomaly issue,12.17600694,1,15,1,1.16E-05,1.16E-05
+none,https://github.com/elastic/kibana/issues/97622,Program anomaly issue,9.79099537,3,26,3,2.31E-05,3.441331019
+none,https://github.com/spring-projects/spring-boot/issues/25388,Configuration issue,31.22953704,1,56,11,0.005902777778,31.16248843
+none,https://github.com/qgis/qgis/issues/29385,Program anomaly issue,5.629560185,0,137,3,0.1858101852,5.629560185
+none,https://github.com/vector-im/element-web/issues/4506,Program anomaly issue,56.87271991,1,11,2,56.75949074,56.87271991
+none,https://github.com/ansible/ansible/issues/20616,Program anomaly issue,54.65975694,1,47,3,0.5596296296,0.7194560185
+none,https://github.com/ansible/ansible/issues/55585,Program anomaly issue,191.4164583,1,61,2,0.001481481481,191.4085069
+none,https://github.com/rancher/rancher/issues/19929,Program anomaly issue,5.827002315,0,61,1,5.827002315,5.827002315
+none,https://github.com/tensorflow/tensorflow/issues/37209,Performance issue,7.805324074,1,30,2,0.6265856481,7.648842593
+none,https://github.com/tensorflow/tensorflow/issues/27244,Program anomaly issue,78.20416667,3,176,5,5.848541667,78.20416667
+none,https://github.com/gatsbyjs/gatsby/issues/16287,Program anomaly issue,18.21868056,7,214,17,0.01101851852,18.7640162
+none,https://github.com/ansible/ansible/issues/58497,Program anomaly issue,82.39106481,2,143,2,82.10038194,82.39106481
+none,https://github.com/ansible/ansible/issues/25481,Program anomaly issue,635.4896296,5,86,5,75.27751157,635.2470139
+none,https://github.com/godotengine/godot/issues/56642,Program anomaly issue,1.2478125,0,64,0,,
+none,https://github.com/microsoft/powertoys/issues/8255,GUI-related issue,6.801493056,1,60,3,6.220706019,6.802210648
+none,https://github.com/eclipse/che/issues/18501,Program anomaly issue,112.8648958,1,133,1,112.8653588,112.8653588
+none,https://github.com/woocommerce/woocommerce/issues/15754,GUI-related issue,0.1930324074,0,84,0,,
+none,https://github.com/rancher/rancher/issues/14689,Configuration issue,7.432314815,2,81,2,2.963287037,7.432314815
+none,https://github.com/hashicorp/terraform/issues/12133,Program anomaly issue,0.385162037,2,106,3,0.2586111111,1149.520359
+none,https://github.com/qgis/qgis/issues/34209,Program anomaly issue,728.4338079,1,19,7,0.01665509259,728.4338079
+none,https://github.com/hashicorp/terraform/issues/16520,Network issue,664.3487037,3,565,5,0.01291666667,694.4890741
+none,https://github.com/facebook/react-native/issues/26070,Program anomaly issue,14.84456019,0,71,0,0.003888888889,
+none,https://github.com/tensorflow/tensorflow/issues/35748,Program anomaly issue,3.223483796,1,33,1,3.223483796,3.223483796
+none,https://github.com/godotengine/godot/issues/10212,Program anomaly issue,153.4329398,0,26,0,,
+none,https://github.com/microsoft/powertoys/issues/14355,GUI-related issue,26.34459491,1,110,1,26.34459491,26.34459491
+none,https://github.com/microsoft/vscode/issues/107883,Configuration issue,0.002337962963,0,21,0,,
+none,https://github.com/zephyrproject-rtos/zephyr/issues/13421,Program anomaly issue,17.93959491,1,34,4,0.002777777778,17.93952546
+none,https://github.com/microsoft/typescript/issues/17632,Program anomaly issue,418.2361111,3,201,3,0.02821759259,2.341793981
+none,https://github.com/woocommerce/woocommerce/issues/13642,Program anomaly issue,0.2648148148,0,41,0,,
+none,https://github.com/ansible/ansible/issues/71967,Program anomaly issue,1.820474537,0,29,0,0.005925925926,
+none,https://github.com/ansible/ansible/issues/26622,Program anomaly issue,14.69423611,2,33,4,2.300914352,517.4295139
+none,https://github.com/qgis/qgis/issues/32872,GUI-related issue,0.0196875,1,17,1,0.01119212963,0.01119212963
+none,https://github.com/elastic/kibana/issues/27332,GUI-related issue,29.80489583,2,77,3,2.174351852,87.25246528
+none,https://github.com/hashicorp/terraform/issues/27803,Configuration issue,43.40152778,3,222,6,0.08261574074,73.66386574
+none,https://github.com/wordpress/gutenberg/issues/18520,GUI-related issue,123.1634954,3,65,7,1.612175926,123.1634954
+none,https://github.com/tensorflow/tensorflow/issues/46604,Program anomaly issue,0.2950925926,0,37,0,,
+none,https://github.com/gatsbyjs/gatsby/issues/16459,Program anomaly issue,713.9742824,0,10,0,21.20778935,
+none,https://github.com/qgis/qgis/issues/26228,Database-related issue,2.492002315,0,38,4,0.00119212963,2.736481481
+none,https://github.com/microsoft/vscode/issues/138396,Performance issue,14.34155093,3,96,15,1.211388889,14.61278935
+none,https://github.com/tensorflow/tensorflow/issues/47262,Program anomaly issue,16.82637731,1,164,1,2.773472222,2.773472222
+none,https://github.com/microsoft/vscode/issues/134909,Configuration issue,12.90221065,4,292,15,0.08075231481,12.90331019
+none,https://github.com/godotengine/godot/issues/30818,Program anomaly issue,16.16449074,3,15,3,0.7082407407,16.16449074
+none,https://github.com/vector-im/element-web/issues/18258,Program anomaly issue,69.16351852,3,78,7,0.05987268519,69.16351852
+none,https://github.com/mozilla-mobile/fenix/issues/11847,GUI-related issue,364.3400347,1,48,1,76.84519676,76.84519676
+none,https://github.com/eclipse/che/issues/17305,Program anomaly issue,0.04471064815,0,46,0,,
+none,https://github.com/microsoft/typescript/issues/26985,Program anomaly issue,65.74957176,2,139,3,0.5627546296,71.66783565
+none,https://github.com/qgis/qgis/issues/28889,Program anomaly issue,44.74944444,0,58,4,0.2370601852,44.74944444
+none,https://github.com/rancher/rancher/issues/31507,Program anomaly issue,48.6628125,1,100,1,48.6628125,48.6628125
+none,https://github.com/dotnet/aspnetcore.docs/issues/22430,Performance issue,66.63653935,0,37,0,,
+none,https://github.com/mozilla-mobile/fenix/issues/13380,GUI-related issue,0.2820486111,1,21,1,0.2820486111,0.2820486111
+none,https://github.com/hashicorp/terraform/issues/12524,Configuration issue,97.21835648,4,190,5,9.154803241,1126.497674
+none,https://github.com/facebook/react-native/issues/24858,Configuration issue,0.5791898148,1,53,1,0.5791898148,0.5791898148
+none,https://github.com/grafana/grafana/issues/16945,GUI-related issue,5.255810185,0,10,0,,
+none,https://github.com/elastic/kibana/issues/117228,Program anomaly issue,36.05299769,2,62,2,2.31E-05,41.76916667
+none,https://github.com/microsoft/typescript/issues/37292,Program anomaly issue,133.1534606,4,130,6,2.881643519,131.3622685
+none,https://github.com/ansible/ansible/issues/21520,Permission/deprecation issue,0.9027314815,0,34,0,0.004641203704,
+none,https://github.com/godotengine/godot/issues/11469,Program anomaly issue,570.8282176,2,37,2,200.9575,570.8282176
+none,https://github.com/zephyrproject-rtos/zephyr/issues/15279,Program anomaly issue,77.84965278,2,66,8,0.1294097222,72.53935185
+none,https://github.com/qgis/qgis/issues/38244,Performance issue,29.97153935,1,257,2,1.382997685,29.97153935
+none,https://github.com/elastic/elasticsearch/issues/64583,Configuration issue,12.18527778,3,54,5,2.31E-05,6.116064815
+none,https://github.com/rancher/rancher/issues/7690,GUI-related issue,193.9323032,4,38,5,1.840474537,193.9322917
+none,https://github.com/mozilla-mobile/fenix/issues/13957,Program anomaly issue,26.95244213,2,5,5,0.0003703703704,26.95243056
+none,https://github.com/magento/magento2/issues/10040,Configuration issue,135.7602778,4,206,11,0.1148842593,797.345
+none,https://github.com/mozilla-mobile/fenix/issues/20894,GUI-related issue,0.0115625,1,99,1,0.0115625,0.0115625
+none,https://github.com/tensorflow/tensorflow/issues/14716,Program anomaly issue,156.1561343,3,82,11,9.4159375,156.1561343
+none,https://github.com/rancher/rancher/issues/14829,Configuration issue,1.764525463,1,42,2,0.04232638889,1.764525463
+none,https://github.com/godotengine/godot/issues/26359,Configuration issue,0.2284953704,1,15,4,0.02390046296,4.042453704
+none,https://github.com/hashicorp/terraform/issues/24290,Program anomaly issue,125.829919,4,49,7,1.67875,155.9568403
+none,https://github.com/godotengine/godot/issues/54477,Performance issue,0.09108796296,0,21,0,,
+none,https://github.com/grafana/grafana/issues/40775,GUI-related issue,25.82834491,1,78,6,3.862604167,4.619976852
+none,https://github.com/tensorflow/tensorflow/issues/23265,,641.6883449,3,60,3,460.2302083,627.6241435
+none,https://github.com/microsoft/typescript/issues/18352,Program anomaly issue,5.627094907,0,11,0,,
+none,https://github.com/hashicorp/terraform/issues/12407,Program anomaly issue,50.82270833,1,132,1,1136.53103,1136.53103
+none,https://github.com/ansible/ansible/issues/42409,Program anomaly issue,780.4247454,6,103,10,94.0103125,781.2392824
+none,https://github.com/microsoft/vscode/issues/90455,GUI-related issue,0.6402662037,0,184,0,,
+none,https://github.com/godotengine/godot/issues/34883,Program anomaly issue,820.5791551,5,71,17,0.0122337963,820.5791551
+none,https://github.com/hashicorp/terraform/issues/30387,Program anomaly issue,0.08266203704,1,21,1,0.07387731481,0.07387731481
+none,https://github.com/godotengine/godot/issues/43989,Program anomaly issue,0.01699074074,1,67,2,0.007673611111,0.01680555556
+none,https://github.com/rancher/rancher/issues/36474,Network issue,3.829837963,1,160,2,3.82869213,3.829756944
+none,https://github.com/godotengine/godot/issues/19363,Program anomaly issue,0.5084027778,1,65,1,0.5084027778,0.5084027778
+none,https://github.com/microsoft/typescript/issues/28679,Program anomaly issue,50.69771991,1,38,1,37.64686343,37.64686343
+none,https://github.com/ansible/ansible/issues/68465,Program anomaly issue,433.9964468,1,208,1,433.9964468,433.9964468
+none,https://github.com/tensorflow/tensorflow/issues/8652,Program anomaly issue,729.523206,26,36,32,0.5268402778,729.523206
+none,https://github.com/ansible/ansible/issues/75711,Program anomaly issue,177.5202199,1,1006,2,177.5202083,178.0741667
+none,https://github.com/eclipse/che/issues/21071,Program anomaly issue,0.6917361111,0,42,0,,
+none,https://github.com/ansible/ansible/issues/35995,Configuration issue,0.5084837963,0,27,1,0.5084837963,0.5084837963
+none,https://github.com/qgis/qgis/issues/23972,GUI-related issue,788.2707986,0,83,9,0.006412037037,788.2707986
+none,https://github.com/zephyrproject-rtos/zephyr/issues/22489,Configuration issue,7.407719907,0,54,0,,
+none,https://github.com/mozilla-mobile/fenix/issues/9036,Configuration issue,642.615463,3,57,5,133.7557986,455.3160301
+none,https://github.com/zephyrproject-rtos/zephyr/issues/8182,Program anomaly issue,2.078472222,0,57,0,,
+none,https://github.com/microsoft/typescript/issues/46589,Program anomaly issue,5.001550926,1,48,2,0.02024305556,5.052048611
+none,https://github.com/rancher/rancher/issues/19838,GUI-related issue,34.81456019,3,17,6,6.085925926,34.81456019
+none,https://github.com/tensorflow/tensorflow/issues/47289,Program anomaly issue,103.4239005,3,105,3,1.272881944,103.4239005
+none,https://github.com/microsoft/typescript/issues/27682,GUI-related issue,12.92269676,3,15,5,0.4134722222,7.132951389
+none,https://github.com/elastic/elasticsearch/issues/68979,Program anomaly issue,2.924768519,2,11,2,4.63E-05,1.174201389
+none,https://github.com/microsoft/typescript/issues/28119,Program anomaly issue,49.98614583,2,242,5,0.001527777778,49.98614583
+none,https://github.com/tensorflow/tensorflow/issues/47789,Program anomaly issue,24.79884259,0,9,1,0.001574074074,0.001574074074
+none,https://github.com/zephyrproject-rtos/zephyr/issues/17239,Program anomaly issue,108.85,3,9,9,0.007650462963,108.85
+none,https://github.com/rancher/rancher/issues/18720,Configuration issue,1.3259375,1,42,2,1.28244213,1.323402778
+none,https://github.com/zephyrproject-rtos/zephyr/issues/17893,Configuration issue,531.1877315,2,116,7,114.1221875,286.8554051
+none,https://github.com/microsoft/vscode/issues/90602,Program anomaly issue,74.39986111,1,28,2,6.275104167,74.39986111
+none,https://github.com/ansible/ansible/issues/67284,Program anomaly issue,133.9323843,1,29,2,14.70063657,133.9323843
+none,https://github.com/vector-im/element-web/issues/19312,Program anomaly issue,0.1040509259,1,63,2,0.001064814815,0.1040509259
+none,https://github.com/zephyrproject-rtos/zephyr/issues/14954,Program anomaly issue,14.84673611,0,27,0,,
+none,https://github.com/hashicorp/terraform/issues/16236,Program anomaly issue,694.452963,3,20,3,2.243506944,724.6100231
+none,https://github.com/vector-im/element-web/issues/13577,Program anomaly issue,0.2508912037,1,6,5,0.001736111111,0.2361574074
+none,https://github.com/elastic/elasticsearch/issues/32758,Configuration issue,4.549895833,1,32,1,1.16E-05,1.16E-05
+none,https://github.com/tensorflow/tensorflow/issues/45627,Performance issue,27.47523148,2,94,9,1.842743056,27.47523148
+none,https://github.com/microsoft/vscode/issues/106819,Program anomaly issue,0.5117824074,2,52,12,0.1459837963,12.5669213
+none,https://github.com/elastic/kibana/issues/47727,Program anomaly issue,278.9286574,4,39,7,1.16E-05,273.253912
+none,https://github.com/qgis/qgis/issues/35700,Configuration issue,0.2029282407,0,29,1,0.08773148148,0.08773148148
+none,https://github.com/ansible/ansible/issues/51591,Configuration issue,6.966365741,1,1665,3,4.402824074,6.966365741
+none,https://github.com/elastic/elasticsearch/issues/58311,Program anomaly issue,0.2877430556,2,212,3,0.1409143519,0.1608564815
+none,https://github.com/ansible/ansible/issues/38525,Program anomaly issue,0.06608796296,2,76,3,0.06608796296,1.053425926
+none,https://github.com/hashicorp/terraform/issues/26180,Program anomaly issue,5.008877315,1,32,1,35.55387731,35.55387731
+none,https://github.com/microsoft/powertoys/issues/9911,Program anomaly issue,65.83456019,4,54,6,30.89435185,65.83456019
+none,https://github.com/godotengine/godot/issues/27578,Program anomaly issue,619.162963,2,51,3,0.03212962963,619.162963
+none,https://github.com/dotnet/aspnetcore.docs/issues/16090,Program anomaly issue,0.0830787037,2,55,2,0.005416666667,7.159479167
+none,https://github.com/godotengine/godot/issues/41849,Configuration issue,498.8318981,1,79,5,0.0171875,0.05287037037
+none,https://github.com/godotengine/godot/issues/33896,Program anomaly issue,178.499838,3,38,6,0.08081018519,178.1627199
+none,https://github.com/facebook/react-native/issues/26127,Network issue,14.22393519,3,61,4,63.5477662,230.1006019
+none,https://github.com/wordpress/gutenberg/issues/6377,GUI-related issue,113.390625,1,59,1,112.4207523,112.4207523
+none,https://github.com/ansible/ansible/issues/46710,Program anomaly issue,7.84900463,0,113,0,0.04851851852,
+none,https://github.com/rancher/rancher/issues/10820,GUI-related issue,10.48300926,2,28,4,0.04267361111,10.48300926
+none,https://github.com/cleverraven/cataclysm-dda/issues/21158,Program anomaly issue,118.4177199,3,46,4,0.2647222222,79.41395833
+none,https://github.com/zephyrproject-rtos/zephyr/issues/8413,Program anomaly issue,2.776840278,1,32,1,0.1667824074,0.1667824074
+none,https://github.com/qgis/qgis/issues/27220,Network issue,61.22109954,0,64,2,61.16790509,61.22109954
+none,https://github.com/grafana/grafana/issues/15919,Performance issue,0.002314814815,1,121,2,0.002314814815,0.003761574074
+none,https://github.com/zephyrproject-rtos/zephyr/issues/36075,Program anomaly issue,7.11056713,0,29,1,0.0007986111111,0.0007986111111
+none,https://github.com/facebook/react-native/issues/23301,Program anomaly issue,41.44490741,2,591,5,0.01725694444,41.44490741
+none,https://github.com/ansible/ansible/issues/38263,Permission/deprecation issue,12.99542824,1,199,13,0.01741898148,12.99542824
+none,https://github.com/cleverraven/cataclysm-dda/issues/53470,Program anomaly issue,2.285243056,0,97,0,,
+none,https://github.com/zephyrproject-rtos/zephyr/issues/31684,Configuration issue,5.462407407,1,320,2,0.03482638889,0.0590625
+none,https://github.com/elastic/kibana/issues/88891,GUI-related issue,221.7927546,2,34,2,1.16E-05,221.7927546
+none,https://github.com/qgis/qgis/issues/25934,Database-related issue,65.3837963,0,168,10,0.04115740741,65.3837963
+none,https://github.com/qgis/qgis/issues/33015,Program anomaly issue,2.709756944,1,63,1,2.709756944,2.709756944
+none,https://github.com/microsoft/typescript/issues/41227,Program anomaly issue,24.8059375,3,270,5,1.781157407,24.80612269
+none,https://github.com/ballerina-platform/ballerina-lang/issues/10189,Program anomaly issue,2.789895833,0,55,0,,
+none,https://github.com/ballerina-platform/ballerina-lang/issues/12774,Test code-related issue,17.69289352,0,130,2,0.5420833333,17.69289352
+none,https://github.com/tensorflow/tensorflow/issues/42190,Program anomaly issue,372.1792361,7,200,32,0.7095601852,358.1434144
+none,https://github.com/microsoft/vscode/issues/125965,GUI-related issue,1.12931713,1,18,1,1.128055556,1.128055556
+none,https://github.com/spring-projects/spring-boot/issues/20028,Program anomaly issue,0.0005324074074,0,3,0,,
+none,https://github.com/facebook/react-native/issues/25841,Performance issue,116.0357176,4,86,7,2.35525463,18.98666667
+none,https://github.com/spring-projects/spring-boot/issues/20711,Program anomaly issue,0.003217592593,0,3,0,,
+none,https://github.com/mozilla-mobile/fenix/issues/6176,GUI-related issue,118.3612731,6,17,12,0.003298611111,548.7446065
+none,https://github.com/qgis/qgis/issues/25945,Program anomaly issue,1.107731481,0,44,2,1.107731481,16.48329861
+none,https://github.com/ballerina-platform/ballerina-lang/issues/13312,Program anomaly issue,0.07628472222,0,25,0,,
+none,https://github.com/qgis/qgis/issues/24809,Configuration issue,44.98766204,0,61,2,31.0275,44.98766204
+none,https://github.com/gatsbyjs/gatsby/issues/16134,Configuration issue,3.59587963,2,78,6,0.004490740741,5.603460648
+none,https://github.com/godotengine/godot/issues/27174,GUI-related issue,15.64622685,0,58,0,,
+none,https://github.com/ant-design/ant-design/issues/20891,GUI-related issue,0.0862037037,0,29,0,,
+none,https://github.com/hashicorp/terraform/issues/18863,Program anomaly issue,291.0481944,3,176,6,4.623726852,332.4181944
+none,https://github.com/godotengine/godot/issues/48468,Program anomaly issue,68.71576389,2,72,4,0.5655324074,33.65800926
+none,https://github.com/godotengine/godot/issues/18046,Program anomaly issue,2.313831019,3,149,4,0.01872685185,0.389837963
+none,https://github.com/ballerina-platform/ballerina-lang/issues/25783,Program anomaly issue,153.2675926,0,57,0,,
+none,https://github.com/elastic/elasticsearch/issues/43863,Database-related issue,8.122534722,1,22,2,1.16E-05,8.122534722
+none,https://github.com/qgis/qgis/issues/33009,GUI-related issue,101.4809259,1,122,2,0.150474537,101.4809259
+none,https://github.com/ansible/ansible/issues/22659,Configuration issue,0.9563888889,1,116,2,0.1166319444,0.7081481481
+none,https://github.com/elastic/kibana/issues/54885,Program anomaly issue,1.415578704,1,22,1,2.31E-05,2.31E-05
+none,https://github.com/qgis/qgis/issues/25207,Configuration issue,505.1674421,0,55,4,1.16E-05,505.1674421
+none,https://github.com/microsoft/typescript/issues/24528,Program anomaly issue,0.9892939815,3,32,6,0.05247685185,14.77534722
+none,https://github.com/ballerina-platform/ballerina-lang/issues/15505,Network issue,65.06172454,0,26,1,65.06172454,65.06172454
+none,https://github.com/spring-projects/spring-boot/issues/29971,Program anomaly issue,0.0008680555556,0,3,0,,
+none,https://github.com/magento/magento2/issues/8271,Program anomaly issue,246.1427315,4,76,4,5.552025463,246.1427199
+none,https://github.com/qgis/qgis/issues/34499,Configuration issue,7.10369213,5,76,12,0.008912037037,7.245451389
+none,https://github.com/ant-design/ant-design/issues/9973,GUI-related issue,1.956365741,2,40,2,1.973564815,1303.101701
+none,https://github.com/ansible/ansible/issues/45202,Program anomaly issue,24.10046296,1,46,1,0.05959490741,0.05959490741
+none,https://github.com/hashicorp/terraform/issues/27817,Configuration issue,0.2188773148,2,40,2,0.2188773148,30.44111111
+none,https://github.com/zephyrproject-rtos/zephyr/issues/31560,Configuration issue,11.08178241,0,31,0,,
+none,https://github.com/qgis/qgis/issues/45981,Configuration issue,0.02033564815,1,239,7,0.01109953704,0.9787962963
+none,https://github.com/zephyrproject-rtos/zephyr/issues/14902,Configuration issue,0.004178240741,0,14,0,,
+none,https://github.com/microsoft/typescript/issues/23800,Program anomaly issue,0.4908333333,2,35,3,0.3503587963,0.3746527778
+none,https://github.com/eclipse/che/issues/4216,GUI-related issue,138.0097338,1,57,1,138.0097338,138.0097338
+none,https://github.com/zephyrproject-rtos/zephyr/issues/16785,Test code-related issue,21.69324074,0,30,1,0.001354166667,0.001354166667
+none,https://github.com/microsoft/typescript/issues/20546,Program anomaly issue,75.04707176,1,26,2,0.1168287037,63.07952546
+none,https://github.com/qgis/qgis/issues/35713,Program anomaly issue,0.4444328704,0,92,0,,
+none,https://github.com/dotnet/aspnetcore.docs/issues/15607,GUI-related issue,5.092361111,0,62,0,,
+none,https://github.com/woocommerce/woocommerce/issues/23051,Program anomaly issue,9.155856481,1,558,1,9.155856481,9.155856481
+none,https://github.com/ballerina-platform/ballerina-lang/issues/28080,Program anomaly issue,165.5271991,2,21,3,164.4810995,165.5271991
+none,https://github.com/elastic/kibana/issues/33328,GUI-related issue,165.1228009,8,137,15,0.02104166667,109.8208912
+none,https://github.com/microsoft/vscode/issues/125440,Program anomaly issue,0.8491087963,0,30,0,,
+none,https://github.com/eclipse/che/issues/19648,Configuration issue,0.9508449074,2,107,13,0.009548611111,1.014884259
+none,https://github.com/hashicorp/terraform/issues/26191,Program anomaly issue,95.85643519,2,50,3,7.144247685,126.2615162
+none,https://github.com/tensorflow/tensorflow/issues/33072,Configuration issue,67.89972222,3,96,3,3.43494213,107.1553125
+none,https://github.com/hashicorp/terraform/issues/16386,Configuration issue,510.2191204,3,83,4,1.405219907,892.4214005
+none,https://github.com/microsoft/vscode/issues/107658,Program anomaly issue,104.1734259,3,71,9,0.055625,104.2540394
+none,https://github.com/eclipse/che/issues/8097,Configuration issue,628.8619097,0,38,0,,
+none,https://github.com/godotengine/godot/issues/49211,Performance issue,0.02539351852,1,75,1,0.02538194444,0.02538194444
+none,https://github.com/ansible/ansible/issues/21200,Configuration issue,182.8990625,2,104,2,20.25262731,182.8990625
+none,https://github.com/microsoft/typescript/issues/45489,Program anomaly issue,34.48326389,2,64,2,26.26150463,27.23392361
+none,https://github.com/ansible/ansible/issues/31906,Configuration issue,21.87320602,2,61,5,0.7345486111,21.87181713
+none,https://github.com/ballerina-platform/ballerina-lang/issues/33551,Program anomaly issue,15.8308912,0,84,0,,
