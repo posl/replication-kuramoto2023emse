@@ -1,6 +1,9 @@
 # Replication-Kuramoto2023EMSE
 This repository contains the resources used in our EMSE project (details can be found in the paper).
 
+## Notice
+This dataset may be transferred to zenodo.
+
 ## Overview
 The package includes the following components:
 
